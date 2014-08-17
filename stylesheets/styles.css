@@ -34,6 +34,7 @@ h3, h4, h5, h6 {
 
 a {
   color:#39c;
+  color: #D45600;
   font-weight:400;
   text-decoration:none;
 }
@@ -148,7 +149,7 @@ img {
 }
 
 #post-excerpt :hover {
-  color: #E87200;  
+  color: #D45600;
 }
 header {
   width:270px;
