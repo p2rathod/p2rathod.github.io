@@ -2,8 +2,8 @@
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  font:15px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#444;
   font-weight:300;
 }
 
@@ -95,6 +95,61 @@ img {
   max-width:100%;
 }
 
+.img-circular{
+ width: 130px;
+ height: 130px;
+ background-image: url('../images/Boom.JPG');
+ margin-bottom: 10px;
+ background-size: cover;
+  display: block;
+  border-radius: 10px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+  /* margin-left: auto;
+     margin-right: auto;
+  */
+}
+
+.social_links {
+  display:inline;
+}
+.social_links img {
+  width:30px;
+}
+#post-date {
+  margin-top: -20px;
+  margin-bottom: 10px;
+  font-style: italic;
+  display:block;
+}
+
+#page-date {
+  margin-top: -20px;
+  margin-bottom: 20px;
+  font-style: italic;
+  
+  display:block;
+}
+#blurb {
+  font-size: 13px;
+}
+#recent-posts-header {
+  line-height:160%;
+  margin-top:20px;
+  font-size:14px;
+}
+
+#post-listing a {
+  color: #333;
+  line-height:170%;
+}
+#post-listing a:hover {
+
+}
+
+#post-excerpt :hover {
+  color: #E87200;  
+}
 header {
   width:270px;
   float:left;
@@ -160,9 +215,10 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:550px;
   float:right;
   padding-bottom:50px;
+  line-height:200%;
 }
 
 small {
@@ -183,7 +239,34 @@ footer {
   bottom:50px;
 }
 
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
 @media print, screen and (max-width: 960px) {
+  .img-circular, #recent-posts-header, #blurb {
+    display:none;           
+  }
+  .social_links {
+    display:inline;
+    float:right;
+  }
   
   div.wrapper {
     width:auto;
@@ -198,6 +281,7 @@ footer {
   
   header {
     padding-right:320px;
+    width:100%;
   }
   
   section {

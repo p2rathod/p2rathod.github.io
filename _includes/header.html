@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Pratik Rathod</title>
+
+    <link rel="stylesheet" href="{{site.url}}/stylesheets/styles.css">
+    <link rel="stylesheet" href="{{site.url}}/stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+    
+    <div class="wrapper">
+
+      
+      <header>
+        <a href="{{site.url}}"><div class="img-circular"></div></a>
+        
+        <p class="view social_links">
+          <a href="https://twitter.com/pratik_rathod"><img src="{{site.url}}/images/twitter-3-64.png"/></a>
+          <a href="https://ca.linkedin.com/in/pratikrathod/"><img src="{{site.url}}/images/linkedin-3-64.png"/></a>
+          <a href="https://www.facebook.com/tikimasala"><img src="{{site.url}}/images/facebook-3-64.png"/></a>
+          <a href="mailto:pratik.rathod@gmail.com"><img src="{{site.url}}/images/email-13-64.png"/></a>
+        </p>
+        <p>Pratik Rathod<br/>
+          Director of Product, <a href="http://polar.me">Polar</a>
+        </p>
+        <p id="blurb">
+          I'm an experienced product, engineering, and customer ops leader. I'm curious about how technology has changed the way we behave, grow, and carry out our day-to-day. I'm fascinated by projects that look to shift global behaviors. 
+        </p>
+        
+        <div id="recent-posts-header">
+          Recent Posts<br/>
+          
+          {% for post in site.posts %}
+          {% if post.category == "long-form" %}
+              <a href="{{ post.url }}">{{ post.title }}</a><br/>
+          {% endif %}
+          {% endfor %}
+
+        </div>
+
+      </header>
+      <section>
