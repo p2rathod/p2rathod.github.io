@@ -1,5 +1,5 @@
 ---
-title: Act, Learn, Think - A Product Canvas for Product Geeks
+title: Act, Learn, Think - A Product Canvas for Product Growth
 layout: post
 category: long-form
 ---
