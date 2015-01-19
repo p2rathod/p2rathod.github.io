@@ -57,12 +57,34 @@ blockquote {
   padding:0 0 0 20px;
   font-style:italic;
 }
+pre {
+    word-wrap:normal;
+    font-family: "Courier 10 Pitch", Courier, monospace;
+    font-size: 85%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+  }       
 
-code, pre {
+code {
+    word-wrap:normal;
+    font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+    font-size: 85%;
+    line-height: 140%;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+    /*background: #faf8f0;*/
+  }
+
+/*code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
   font-size:12px;
-}
+}*/
 
 pre {
   padding:8px 15px;
@@ -316,12 +338,8 @@ blockquote p {
     position:static;
   }
   
-  pre, code {
+  pre {
     word-wrap:normal;
-  }
-}
-
-pre {
     font-family: "Courier 10 Pitch", Courier, monospace;
     font-size: 80%;
     line-height: 140%;
@@ -329,9 +347,10 @@ pre {
     white-space: pre-wrap;
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
-}       
+  }       
 
 code {
+    word-wrap:normal;
     font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
     font-size: 80%;
     line-height: 140%;
@@ -340,7 +359,10 @@ code {
     white-space: -moz-pre-wrap;
     white-space: -o-pre-wrap;
     /*background: #faf8f0;*/
+  }
 }
+
+
 
 
 @media print, screen and (max-width: 480px) {
