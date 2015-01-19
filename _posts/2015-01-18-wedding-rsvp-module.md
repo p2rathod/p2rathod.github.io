@@ -82,6 +82,7 @@ Once initialized, we could respond to a name lookup and produce the household fa
 
 First we look up the name and get the postal code:
 
+
 	// get the first name and 
 	// uppercase the first letter (helper function in script)
 	var first = upper_first_letter(document.getElementById("firstname").value);
