@@ -283,7 +283,7 @@ That code looked like the following:
 	  });
 	}
 	
-A version of the code is [here](https://github.com/kiranandjustin/kiranandjustin.github.io/blob/master/js/firebaselib.js).
+A version of the code is [here](https://github.com/kiranandjustin/kiranandjustin.github.io/blob/master/js/rsvp_module.js).
 
 All in all - a pretty interesting hack. Hopefully others can make use of this and improve on it
 
