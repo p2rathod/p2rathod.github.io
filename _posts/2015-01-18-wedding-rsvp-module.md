@@ -2,6 +2,7 @@
 title: RSVP Module for Wedding Events
 layout: post
 category: long-form
+published: false
 ---
 
 I was recently tasked with the pleasure of building a friend's site for his wedding. They wanted their guests to RSVP online - seemed pretty simple. Unfortunately I wasn't able to find a *good* out-of-the-box solution (not to say they don't exist).
