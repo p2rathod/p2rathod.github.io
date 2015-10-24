@@ -1,5 +1,5 @@
 ---
-title: Yin-Yang Leadership
+title:
 layout: post
 category: quote
 ---
