@@ -1,11 +1,11 @@
 ---
-title: 5 Steps to Active Listeining - A Framework to Navigate the Art of Active Listening.
+title: 5 Steps to Active Listeining - A Framework to Navigate the Art
 layout: post
 category: long-form
 ---
 
 
-Face it - you haven't really listened. You're not good at it. Neither was I. Sure, we 'heard' what other people said, but we've often faded, day-dreamed, or fully moved our attention elsewhere more often than not. The struggle is well [documented here](http://pratikrathod.com/long-form/2016/03/23/half-of-communication-is-never-saying-a-word.html)
+Face it - you haven't really listened. You're not good at it. Neither was I. Sure, we 'heard' what other people said, but we've often faded, day-dreamed, or fully moved our attention elsewhere more often than not. The struggle is well [documented here](http://pratikrathod.com/long-form/2016/03/23/half-of-communication-is-never-saying-a-word.html).
 
 You're not alone. 75% of people don't actively listen.
 
