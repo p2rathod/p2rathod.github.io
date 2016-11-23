@@ -11,7 +11,7 @@ You're not alone. 75% of people don't actively listen.
 
 It's not because you don't want to. Frankly, it's because you think it's an art, rather than a skill. Well, here's a framework, delivered w/ an example.
 
-The other day, my wife (who's a high school teacher) was telling me about inquiry-based learning. Below is the active listening framework, exemplified by that conversation.
+The other day, my wife (who's a high school teacher) was telling me about [inquiry-based learning](https://en.wikipedia.org/wiki/Inquiry-based_learning). Below is the active listening framework, exemplified by that conversation.
 
 1. Who
 Name the person. Who are they? What is their relation to you?
