@@ -1,5 +1,5 @@
 ---
-title: 5 Steps to Active Listeining: A Framework to Navigate the Art of Active Listening.
+title: 5 Steps to Active Listeining - A Framework to Navigate the Art of Active Listening.
 layout: post
 category: long-form
 ---
