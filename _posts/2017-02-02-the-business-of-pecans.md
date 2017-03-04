@@ -4,8 +4,6 @@ layout: post
 category: long-form
 ---
 
-## Prelude
-
 This post is about pecans. Yes, pecans. Specifically the business of pecans. Guess what: I outsourced the research (yes, outsourced).
 
 I wanted to test upwork.com (an outsourcing tool) again, this time to do online research. If you know me, you know I've spent thousands of dollars on upwork and every penny has been well spent. This time, I spent < $10 asking someone to answer a series of questions about the business of pecans.
