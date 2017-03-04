@@ -45,9 +45,7 @@ The pecans I eat are generally from the US (probably Georgia). They cost above $
 Hope you've learned a bit more about pecans. If you're ever interested in talking about anything "outsourced", happy to talk more.
 
 
-p.s. if you're looking for an epic pecan milk shake, head to Jawny Baker's - their chocolate pecan shake is insane.
-
-http://www.jawnybakers.com/
+p.s. if you're looking for an epic pecan milk shake, head to [Jawny Baker's](http://www.jawnybakers.com/) - their chocolate pecan shake is insane.
 
 ### Resources:
 
