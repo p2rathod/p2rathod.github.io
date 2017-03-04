@@ -4,7 +4,7 @@ layout: post
 category: long-form
 ---
 
-##Prelude
+## Prelude
 
 This post is about pecans. Yes, pecans. Specifically the business of pecans. Guess what: I outsourced the research (yes, outsourced).
 
@@ -14,8 +14,8 @@ Why pecans? A book I read in January called [Braiding Sweetgrass](https://www.am
 
 Well, here's why:
 
-##The Business of Pecans
-![Alt text](/../images/pecans.png)
+## The Business of Pecans
+![pecans.png]({{site.url}}/images/pecans.jpg)
 
 The pecan harvest year to year is unpredictable. In a nutshell, each stakeholder prices in that risk (get it?!).
 
@@ -27,14 +27,14 @@ Pecans need 205-233 frost-free days (which is why you won't see pecan trees in T
 
 In another words - pecan trees are high-maintenance and have become more attractive over the past decade.
 
-Why have pecans become so popular?
+### Why have pecans become so popular?
 
 Blame the pecan's eerily similar taste to the hickory nut (which is insanely popular in South East Asia). The similarity has caused countries in this region to go bonkers over pecans.
 Vietnam grew it's pecan imports by 170% and Hong Kong remains the US's largest export partner of in-shelled pecans.
 
 In Europe, The Netherlands bought 19% more pecans (though also sold a lot of them), and the UK increased their consumption by 12% from 2013 to 2014. Those growth trends continue their patterns globally into 2016 and now 2017 due to the many health benefits that pecans provide.
 
-##In summary:
+### In summary:
 
 * Harvesting and forecasting of pecans is difficult. It's high maintenance and risk is priced in.
 * Asia's demand for hickory nuts and similarity with pecans
@@ -49,7 +49,7 @@ p.s. if you're looking for an epic pecan milk shake, head to Jawny Baker's - the
 
 http://www.jawnybakers.com/
 
-Resources:
+### Resources:
 
 * http://www.agmrc.org/commodities-products/nuts/pecans/
 * http://www.nutfruit.org/wp-continguts/uploads/2016/05/Global-Statistical-Review-2015-2016.pdf
