@@ -1,16 +1,21 @@
 ---
-title: Speed-Reading and the Forest Beyond the Trees
+title: I've Been Reading Wrong, All Along
 layout: post
 category: long-form
 ---
 
 
-Between the never-ending abyss of content on the Internet and the always-expanding list of must-read books, consuming enough content is a challenge. At work, I look at the 2017-resolution wall, and
-read more" is plastered all over it. One step I took to take on the resolution was to read faster. Naturally, I bought in on the idea of speed-reading.
+There's too much content.
 
-How did I learn to speed-read?  It started with a goal of reading more.  I was reading about eight books a year and wanted to move to 12 (now on pace for 15).  I had watched the speed-reading infomercials on TV [in the 90s](https://www.youtube.com/watch?v=I54q6yeV8B0) and was looking for something less preposterous.  The average adult reads about 250 words per minute, and [Tim Ferriss](http://tim.blog/2009/07/30/speed-reading-and-accelerated-learning/)&#39; blog claimed I could become one of the 1% that can read 400 words per minute.
+A never-ending abyss of articles on the Internet and an always-expanding list of must-read books keeps me challenged to keep up. I have over 500 articles saved on Instapaper, an ever-growing 'to-do list'. I read about eight books a year. At work, I look at the 2017-resolution wall, and "read more" is plastered all over it.
+
+It was due time; I decided to read faster.
+
+ I had watched the speed-reading infomercials on TV [in the 90s](https://www.youtube.com/watch?v=I54q6yeV8B0) and yes, I was looking for those same results (I was bought in). Then I read about how Tim Ferriss learned to speed-read.  The average adult reads about 250 words per minute, and [his blog](http://tim.blog/2009/07/30/speed-reading-and-accelerated-learning/)&#39; claimed I could become one of the 1% that can read 400 words per minute.
 
 [![90's speed reading](http://img.youtube.com/vi/I54q6yeV8B0/0.jpg)](http://www.youtube.com/watch?v=I54q6yeV8B0 "Speed-Reading Infomercial")
+
+## Here's how I did it
 
 ### Online Content
 
