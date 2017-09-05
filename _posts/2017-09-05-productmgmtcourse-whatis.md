@@ -54,7 +54,7 @@ There are 4 areas of responsibility:
 * New product launch
 * Lifecycle management
 
-There are 4 skills you will want to develop:
+There are 5 skills of a Product Manager are:
 * Sales
 * Technology
 * UX
