@@ -3,4 +3,11 @@ layout: default
 ---
 <h2><span class="octicon octicon-link"></span></a>{{page.title}}</h2>
 <div id="page-date">{{ page.date | date: "%-d %B %Y" }}</div>
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+
 {{content}}
