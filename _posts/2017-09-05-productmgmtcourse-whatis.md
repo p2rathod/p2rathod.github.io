@@ -30,7 +30,7 @@ There are four key areas of responsibility for product managers:
 
 This is a lot to ask for from just a few people. Luckily, you're not in it alone. As a product manager, you're connected with  sales, marketing, engineering, account management, customers, and users. You work with an organization.
 
-### The Four Pillars: Skills To Excel At Product Management
+### The Five Pillars: Skills To Excel At Product Management
 
 Covering your responsibilities is part of the ask. To really push the needle, you'll want to work on the soft skills that take you from novice to master. We bucket these skills into four areas. These are:
 
