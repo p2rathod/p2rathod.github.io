@@ -5,13 +5,11 @@ category: long-form
 tags: product-mgmt-course
 ---
 
-## What is Product Management?
+Product managers have a fun and exciting job. We get to learn, to build, and to communicate. We get to work with amazing teams, customers, and users. We have the luxury to be creative and process oriented at the same time. Our jobs can be fluid. We are accountable for driving success in a business line, product, or feature. The responsibilities of a product manager come in many forms. They are a function of the business profile. Some factors include:
 
-
-Product managers are responsible for driving success in a business line, product, or feature. The responsibilities of a product manager come in many forms. They are a function of the business profile. Some factors include:
-* Is the business a consultancy or product oriented organization
-* Is the company large or small
-* Is the company consumer or enterprise driven
+* The type of company (consultancy or product oriented)
+* The size of the company (large or small)
+* The customer, a user or an enterprise
 
 No matter the flavours, three themes stay consistent:
 
