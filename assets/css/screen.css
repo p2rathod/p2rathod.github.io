@@ -357,6 +357,10 @@ blockquote {
   .post-top-meta.authorpage {
     text-align: center;
   }
+
+  .minibrand {
+    display: none;
+  }
 }
 .share,
 .share a {
