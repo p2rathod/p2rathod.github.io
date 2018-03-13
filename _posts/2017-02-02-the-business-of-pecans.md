@@ -1,7 +1,9 @@
 ---
 title: The Business of Pecans
 layout: post
-category: long-form
+category: research
+research: true
+image: assets/images/pecans.jpg
 ---
 
 This post is about pecans. Yes, pecans. Specifically the business of pecans. Guess what: I outsourced the research (yes, outsourced).
@@ -13,6 +15,7 @@ Why pecans? A book I read in January called [Braiding Sweetgrass](https://www.am
 Well, here's why:
 
 ## The Business of Pecans
+
 ![pecans.png]({{site.url}}/images/pecans.jpg)
 
 The pecan harvest year to year is unpredictable. In a nutshell, each stakeholder prices in that risk (get it?!).
@@ -42,7 +45,6 @@ The pecans I eat are generally from the US (probably Georgia). They cost above $
 
 Hope you've learned a bit more about pecans. If you're ever interested in talking about anything "outsourced", happy to talk more.
 
-
 p.s. if you're looking for an epic pecan milk shake, head to [Jawny Baker's](http://www.jawnybakers.com/) - their chocolate pecan shake is insane.
 
 ### Resources:
@@ -57,4 +59,3 @@ p.s. if you're looking for an epic pecan milk shake, head to [Jawny Baker's](htt
 * https://www.ams.usda.gov/rules-regulations/moa/986-pecans
 * https://www.pri.org/stories/2015-04-17/chinese-went-wild-american-pecans-which-may-be-bad-news-wild-pecan-trees
 * https://ycharts.com/indicators/us_pecans_price_received
-

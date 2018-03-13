@@ -1,12 +1,12 @@
 ---
 title: The Year, 2% at a Time
 layout: post
-category: long-form
+category: system
 ---
 
-Why are we such reactive creatures? Is it North American culture? Is it me? At the end of 2014, a date asked a simple question: "What was the best year of your life?" It bugged me that I couldn't say "this year". _Nothing_ in the previous 12 months could lead me to it. Like many others, I reflected in December. I was reactively taking stock of the year. 
+Why are we such reactive creatures? Is it North American culture? Is it me? At the end of 2014, a date asked a simple question: "What was the best year of your life?" It bugged me that I couldn't say "this year". _Nothing_ in the previous 12 months could lead me to it. Like many others, I reflected in December. I was reactively taking stock of the year.
 
-We need to flip the model. We *should* be able to say we've had an amazing year, every year.
+We need to flip the model. We _should_ be able to say we've had an amazing year, every year.
 
 ### The Model
 
@@ -14,7 +14,7 @@ We begin with the simple concept: Each week of the year represents ~2% of the ye
 
 As such, I built a system centered on personal endeavors and I'm now reflecting at the 6 month mark. Here, I evaluate what I've done, and what changes I need to make for the latter half of the year:
 
-### The Recipe (circa January 2015): 
+### The Recipe (circa January 2015):
 
 (Note these are all MINIMUMS)
 
@@ -32,4 +32,5 @@ I've been to Panama, Costa Rica, and had weekend trips to Montreal, Canada, and 
 #### Grade: B+ (due to lack of professional growth metrics in the system)
 
 ### The message
+
 Too often life is reactive. There are things we can't control, but there are far too many things that we can. Why not build a plan to have fun, learn, grow, and fulfill your mind, body, and soul. [This post by Sheryl Sandberg](https://www.facebook.com/sheryl/posts/10155617891025177:0) reminds us of that. Let's commit to the system as [James Clear says](https://medium.com/the-blog-of-james-clear/if-you-completely-ignored-your-goals-and-focused-on-this-one-thing-would-you-get-better-results-1451c43c0c64). This year has been amazing and it's been influenced by the 2% model.

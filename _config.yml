@@ -1,16 +1,39 @@
-# Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-#baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
-url: "http://p2rathod.github.io"
-#url: "http://localhost:4000"
-twitter_username: jekyllrb
-github_username:  jekyll
+# Site
+name: Pratik Rathod
+description: Personal Blog
+meta_description: "Jekyll template, Medium styled, free for bloggers."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
+paginate: 10
+baseurl: 
+google_analytics: 'UA-54596203-1'
+disqus: 'demowebsite'
+mailchimp-list: ''
 
-# Build settings
+# Authors
+authors:
+  pratik:
+    name: Pratik
+    display_name: Pratik
+    gravatar: 0bf0f1e25f1f45e09f0bd3a193cf2392
+    email: pratik.rathod@gmail.com
+    web: https://www.pratikrathod.com
+    twitter: https://twitter.com/pratik_rathod
+    description: "Learner. Adventurer. Entrepreneur. VP Product at @aboutPolar"
+  
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Other
 markdown: kramdown
+highlighter: rouge

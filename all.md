@@ -1,0 +1,19 @@
+---
+layout: page
+title: All Stories
+comments: false
+---
+
+<!-- All Stories
+================================================== -->
+
+<section class="recent-posts">
+    <div class="masonrygrid row listrecent">
+
+        {% for post in site.posts %}
+                {% include postbox.html %}
+        {% endfor %}
+
+    </div>
+
+</section>
