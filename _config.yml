@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.png'
 paginate: 10
 baseurl: 
 google_analytics: 'UA-54596203-1'
-disqus: 'demowebsite'
+disqus: ''
 mailchimp-list: ''
 
 # Authors
