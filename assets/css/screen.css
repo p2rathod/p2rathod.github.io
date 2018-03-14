@@ -266,9 +266,9 @@ span.post-read-more a:hover {
   color: rgba(0, 0, 0, 0.8);
 }
 .article-post {
-  font-family: Merriweather;
-  font-size: 1.2rem;
-  line-height: 1.8;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.2em;
+  line-height: 1.8em;
   color: rgba(0, 0, 0, 0.8);
 }
 blockquote {
@@ -654,4 +654,15 @@ iframe {
 .minibrand {
   color: grey;
   font-size: 80%;
+}
+
+.article-post > p:first-child:first-letter {
+  color: #000;
+  float: left;
+  font-size: 7rem;
+  font-style: bold;
+  line-height: 6rem;
+  /* padding-top: 4px; */
+  padding-right: 8px;
+  /* padding-left: 3px; */
 }
