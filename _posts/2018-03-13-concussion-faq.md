@@ -13,7 +13,7 @@ Nausea, dizziness, headache, light sensitivity, and fatigue were consistent. All
 
 You can find the culmination of this research below, in a FAQ style post. There is a link to the PDF also. I hope it helps.
 
-Before moving forward, thank you Kanika, Nikolai, and Michael for the calls, texts, and support. Thank you to family and friends who checked in on me constantly. A very special thank you to Ash who did _everything_ so I didn’t have to. I’m grateful.
+Before moving forward, thank you Kanika, Nikolai, and Michael for the calls, texts, and support. Thank you to family and friends who checked in on me constantly. Thank you for the informed health care professionals. And a very special thank you to Ash who did _everything_ so I didn’t have to. I’m grateful.
 
 ### Understanding
 
