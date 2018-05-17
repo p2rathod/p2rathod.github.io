@@ -3,27 +3,21 @@ layout: post
 title:  All About Concussions
 category: research
 research: true
-image:
+image: assets/images/posts/concussion/IMG_3677.JPG
 featured: true
 ---
 
-This past December, while in India, I injured myself in a pretty embarrassing way. I jumped up a couple of steps and hit my head on a low concrete ceiling. Completely self-inflicted.
+This past December, I injured myself in a pretty embarrassing way. I jumped up a couple of steps and hit my head on a low concrete ceiling. Seemingly minor. Completely self-inflicted. Turns out, I hit my head hard enough to experience a "concussion" (I need to make up a better story for this).
 
-Turns out, I bamboozled myself into a "concussion". Nausea, dizziness, headache, light sensitivity, and fatigue were consistent. All of the classic symptoms.
+Nausea, dizziness, headache, light sensitivity, and fatigue were consistent. All of the classic symptoms. By January, having to deal with the symptoms was debilitating. I had no idea what a concussion was. I couldn't understand why there was discomfort and pain. I had to learn more.
 
-Having no idea what a 'concussion' was, of course I had to learn more.
+You can find the culmination of this research below, in a FAQ style post. There is a link to the PDF also. I hope it helps.
 
-There is a comprehensive FAQ below.
-
-### Grateful
-
-I shut it down for two weeks and went on an aggressive search for understanding. I spoke to a number of people who had gone through it before. Thank you Kanika, Nikolai, and Michael for the calls, texts, and therapy. I’m grateful.
-
-Thank you to family and friends who checked on me constantly. A special thank you to Ash who did _everything_ so I didn’t have to.
+Before moving forward, thank you Kanika, Nikolai, and Michael for the calls, texts, and support. Thank you to family and friends who checked in on me constantly. A very special thank you to Ash who did _everything_ so I didn’t have to. I’m grateful.
 
 ### Understanding
 
-The way I make sense of splitting 'concussions' into two injuries: a brain injury and a neck injury. There are numerous studies that acknowledge the [neck in a concussion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4977400/) and emerging research that [neck dysfunction causing concussion symptoms](https://completeconcussions.com/2017/03/14/neck-causing-concussion-symptoms-part-1/).
+The way I made sense of this was to split the 'concussion' into two injuries: a brain injury and a neck injury. There are numerous studies that acknowledge the [neck in a concussion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4977400/) and there is emerging research that shows [how neck dysfunction can cause concussion symptoms](https://completeconcussions.com/2017/03/14/neck-causing-concussion-symptoms-part-1/).
 
 The concussion FAQ is split into three sections:
 
@@ -35,7 +29,7 @@ Hope that you're able to read it and learn more about concussions, the risks, an
 
 Thanks.
 
-_(Note - I am not in healthcare nor am I a doctor. Please consult your doctor.)_
+_(Note - I am not a healthcare practictioner nor am I a doctor. You can find all of the research below on the web. Your first call is your doctor, so please consult him/her.)_
 
 # Concussion And The Brain
 
@@ -223,7 +217,7 @@ Sources:
 
 * [https://globalnews.ca/news/2392566/concussions-becoming-an-epidemic-problem-in-canadian-kids/](https://globalnews.ca/news/2392566/concussions-becoming-an-epidemic-problem-in-canadian-kids/)
 
-<object data="/assets/pdfs/ConcussionFAQ.pdf" type="application/pdf" width="100%" height="800px"> 
+<object data="/assets/pdfs/ConcussionFAQ.pdf" type="application/pdf" width="100%" height="800px">
   <p>It appears you don't have a PDF plugin for this browser.
    No biggie... you can <a href="/assets/pdfs/ConcussionFAQ.pdf">click here to
   download the PDF file.</a></p>  
