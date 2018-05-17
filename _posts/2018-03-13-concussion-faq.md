@@ -3,7 +3,7 @@ layout: post
 title:  All About Concussions
 category: research
 research: true
-image: assets/images/posts/concussion/IMG_3677.JPG
+image: assets/images/posts/concussion/IMG_3966.JPG
 featured: true
 ---
 
