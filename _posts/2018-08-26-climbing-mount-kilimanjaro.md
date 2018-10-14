@@ -2,16 +2,14 @@
 layout: post
 title:  Ascending Mount Kilimanjaro
 category: travel
+research: true
 image: assets/images/posts/travel/kili/celebrate.jpg
 featured: true
 ---
 
 > Moshi, Tanzania, Africa
-> "Pole-Pole" - Slowly Slowly
 
-[![Kilimanjaro Video]({{site.url}}/assets/images/posts/travel/kili/group.jpg)](https://youtu.be/4G02RIr5wmw)
-
-A slow walk would be too fast for this mountain. One step -- breathe -- another step -- breathe. On and on for 7 straight days and nights. That was our ascent up Mount Kilimanjaro - Africa's tallest peak, and the highest free-standing mountain in the world. It had always been a dream and this year I had the opportunity to do it with 18 family and friends. There was only one way up -- "pole-pole" -- slowly slowly in Swahili.
+A slow walk would be too fast for this mountain. One step -- breathe -- another step -- breathe. On and on for 7 straight days and nights. That was [our ascent up Mount Kilimanjaro](https://youtu.be/4G02RIr5wmw) - Africa's tallest peak, and the highest free-standing mountain in the world. It had always been a dream and this year I had the opportunity to do it with 18 family and friends. There was only one way up -- "pole-pole" -- slowly slowly in Swahili.
 
 # SURPRISE! It's a doozy.
 
