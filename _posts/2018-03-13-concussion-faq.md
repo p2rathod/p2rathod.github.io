@@ -4,7 +4,7 @@ title:  All About Concussions
 category: research
 research: true
 image: assets/images/posts/concussion/IMG_3966.JPG
-featured: true
+featured: false
 ---
 
 This past December, I injured myself in a pretty embarrassing way. I jumped up a couple of steps and hit my head on a low concrete ceiling. Seemingly minor. Completely self-inflicted. Turns out, I hit my head hard enough to experience a "concussion" (I need to make up a better story for this).
