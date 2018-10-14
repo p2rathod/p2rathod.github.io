@@ -16,7 +16,7 @@ Well, here's why:
 
 ## The Business of Pecans
 
-![pecans.png]({{site.url}}/images/pecans.jpg)
+![pecans.png]({{site.url}}/assets/images/pecans.jpg)
 
 The pecan harvest year to year is unpredictable. In a nutshell, each stakeholder prices in that risk (get it?!).
 

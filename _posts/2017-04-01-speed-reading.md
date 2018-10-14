@@ -30,7 +30,7 @@ I applied [Tim Ferriss&#39; techniques](mailto:http://tim.blog/2009/07/30/speed-
 
 It turns out that eliminating eye movements to read faster is already well understood by neuroscientists. A type of visual presentation called RSVP, or Rapid Serial Visual Processing, displays words sequentially, one after another, in the same place in the visual field (i.e., on a computer screen right in front of you) so that eye movements are not required to read the words. Participants reading with the RSVP presentation improve their reading speed by threefold, compared to normal reading styles (Dehaene, 2009).
 
-![Speed Reading Reqs](/../images/speedread.jpg)
+![Speed Reading Reqs]({{site.url}}/assets/images/speedread.jpg)
 
 What did I learn from my experience with speed-reading? First, it takes focus. You must eliminate distractions. Task-switching has a terrible impact on your productivity. Second, reading speed is limited primarily by the biomechanics of the eye. You can only read as quickly as your eyes can move, but your brain can process at a faster rate than your eyes move. Therefore, if you speed up the rate at which you can see words without requiring eye movements, you can read a lot more words in less time.
 

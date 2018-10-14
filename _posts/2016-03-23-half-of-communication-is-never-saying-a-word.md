@@ -10,7 +10,7 @@ Ever be in a room and tune out? How about not truly understanding why someone wa
 
 So I read [Active Listening 101](http://www.amazon.com/Active-Listening-101-Communication-Skills-ebook/dp/B008X43TJE) by Emilia Hardman. It's fundamentally changed the way I communicate. It's helped me be better at my job and in my personal life as a son, brother, and soon-to-be husband. I've gained a super-power.
 
-![What is most useful]({{site.url}}/images/activelistening.jpg)
+![What is most useful]({{site.url}}/assets/images/activelistening.jpg)
 
 Here's what I "discovered":
 

@@ -14,29 +14,29 @@ The other day, my wife (who's a high school teacher) was telling me about [inqui
 
 1.  Who
     Name the person. Who are they? What is their relation to you?
-    ![activelisten_who.png]({{site.url}}/images/fw_activelistening/activelisten_who.png)
+    ![activelisten_who.png]({{site.url}}/assets/images/fw_activelistening/activelisten_who.png)
 
 2.  Context
     What are they trying to convey? An idea? An experience? What brought them to talk about what they're talking about?
-    ![activelisten_who.png]({{site.url}}/images/fw_activelistening/activelisten_context.png)
+    ![activelisten_who.png]({{site.url}}/assets/images/fw_activelistening/activelisten_context.png)
 
 3.  What
     What are they talking about? What are the key points?
-    ![activelisten_who.png]({{site.url}}/images/fw_activelistening/activelisten_what.png)
+    ![activelisten_who.png]({{site.url}}/assets/images/fw_activelistening/activelisten_what.png)
 
 4.  Body
     What's their body language like? How about their tone?
-    ![activelisten_who.png]({{site.url}}/images/fw_activelistening/activelisten_bodylang.png)
+    ![activelisten_who.png]({{site.url}}/assets/images/fw_activelistening/activelisten_bodylang.png)
 
 5.  Yes, and
     The holy-grail - this is all about [yes, and](https://en.wikipedia.org/wiki/Yes,_and...). How are you going ot build on what's been shared? This might be a question, a new idea, or a rebuttal.
-    ![activelisten_who.png]({{site.url}}/images/fw_activelistening/activelisten_yesand.png)
+    ![activelisten_who.png]({{site.url}}/assets/images/fw_activelistening/activelisten_yesand.png)
 
 And the final framework:
-![activelisten_who.png]({{site.url}}/images/fw_activelistening/framework_example.png)
+![activelisten_who.png]({{site.url}}/assets/images/fw_activelistening/framework_example.png)
 
 The result? For one - far better relationships ;).
 
 The value is clear, but the path to get there isn't always clear. I had to remind myself of a growth mindset. It's a skill - not an art. It can be learned, and learned fairly easily. Below is a mental worksheet I use. Good luck.
 
-![activelisten_who.png]({{site.url}}/images/fw_activelistening/framework.png)
+![activelisten_who.png]({{site.url}}/assets/images/fw_activelistening/framework.png)
