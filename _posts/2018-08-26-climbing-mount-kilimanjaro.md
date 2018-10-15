@@ -5,7 +5,8 @@ category: travel
 research: true
 image: assets/images/posts/travel/kili/celebrate.jpg
 featured: true
-summary: My trip up Kilimanjaro was the biggest challenge of my life, but I'd do it agian.
+travel_featured: true
+description: My trip up Kilimanjaro was the biggest challenge of my life, but I'd do it agian.
 location: Mount Kilimanjaro, Tanzania, Africa
 ---
 
