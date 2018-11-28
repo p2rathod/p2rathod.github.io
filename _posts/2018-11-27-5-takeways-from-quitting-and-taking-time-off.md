@@ -41,7 +41,7 @@ It's not in my nature to be open and trusting by default, but that's exactly wha
 
 ### 3. Bring Closure
 
-![Tiki's Water Bottle](assets/images/posts/travel/five-lessons/tikibottle.JPG "Tiki's Water Bottle")
+![Tiki's Water Bottle]({{site.url}}/assets/images/posts/travel/five-lessons/tikibottle.JPG "Tiki's Water Bottle")
 
 Quitting, leaving, breaking up - that's 1/2 the battle. The second is closure - a completely different beast. For me, not having closure manifested in really weird ways (like a fixation on one semi-dumb startup idea for months).
 
@@ -51,7 +51,7 @@ So I gave (almost) all my Polar gear away - mostly to my dad. Win-win (he loves 
 
 ### 4. Pay Attention To The Negative Space
 
-![Skydiving In The Bay Of Islands](assets/images/posts/travel/five-lessons/tikibottle.JPG "Skydiving In The Bay Of Islands")
+![Skydiving In The Bay Of Islands]({{site.url}}/assets/images/posts/travel/five-lessons/tikibottle.JPG "Skydiving In The Bay Of Islands")
 
 I've done a tonne so far. Here's a quick list:
 
@@ -73,7 +73,7 @@ The power in taking something out of your life, is that you get to decide how to
 
 ### 5. The Relationship With Time
 
-![Beach time](assets/images/posts/travel/five-lessons/lavie.JPG "Beach time")
+![Beach time]({{site.url}}/assets/images/posts/travel/five-lessons/lavie.JPG "Beach time")
 
 I've removed all routine. I obviously don't have any meetings. I sleep when I'm tired, and wake up when I'm not. I eat when I'm hungry. We make healthy meals. I spend afternoons at the beach, in the water, or reading. Time has nothing on me.
 
