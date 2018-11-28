@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  All About Concussions
+title: All About Concussions
 category: research
 research: true
 image: assets/images/posts/concussion/IMG_3966.JPG
@@ -9,9 +9,9 @@ featured: false
 
 This past December, I injured myself in a pretty embarrassing way. I jumped up a couple of steps and hit my head on a low concrete ceiling. Seemingly minor. Completely self-inflicted. Turns out, I hit my head hard enough to experience a "concussion" (I need to make up a better story for this).
 
-Nausea, dizziness, headache, light sensitivity, and fatigue were consistent. All of the classic symptoms. By January, having to deal with the symptoms was debilitating. I had no idea what a concussion was. I couldn't understand why there was discomfort and pain. I had to learn more.
+Nausea, dizziness, headaches, light sensitivity, and fatigue were consistent. All of the classic symptoms. By January, it was debilitating. I had no idea what a concussion was. I couldn't understand why there was discomfort and pain. I was off work for over a month. I couldn't sit in meetings, nor look at a computer. It's a good thing that I work in tech...:| I had to learn more.
 
-You can find the culmination of this research below, in a FAQ style post. There is a link to the PDF also. I hope it helps.
+You can find the culmination of that research below, in a FAQ style post. There is a link to the PDF also. I hope it helps.
 
 Before moving forward, thank you Kanika, Nikolai, and Michael for the calls, texts, and support. Thank you to family and friends who checked in on me constantly. Thank you for the informed health care professionals. And a very special thank you to Ash who did _everything_ so I didn’t have to. I’m grateful.
 
@@ -21,9 +21,9 @@ The way I made sense of this was to split the 'concussion' into two injuries: a 
 
 The concussion FAQ is split into three sections:
 
-* Concussion, the traumatic brain injury (TBI)
-* Concussion, the whiplash
-* Concussion statistics
+- Concussion, the traumatic brain injury (TBI)
+- Concussion, the whiplash
+- Concussion statistics
 
 Hope that you're able to read it and learn more about concussions, the risks, and the severity of the injury.
 
@@ -159,17 +159,17 @@ Source: [Healthline](https://www.healthline.com/health/whiplash#causes)
 
 The best PDF I’ve seen to date is this one: [Oxford Radcliffe Hospitals](<https://www.rcem.ac.uk/docs/Local%20Guidelines_DischargeAdvice/12wi.%20Whiplash%20(Oxford%20University%20Hospitals,%202011).pdf>)
 
-* Chin-Tuck. Chin-tucks gently stretch the muscles along your neck and upper back.
+- Chin-Tuck. Chin-tucks gently stretch the muscles along your neck and upper back.
 
-* Flexion. Flexion is bending your neck forward.
+- Flexion. Flexion is bending your neck forward.
 
-* Side-Bending. Side bending exercises improve your ability to tip your ears toward your shoulders.
+- Side-Bending. Side bending exercises improve your ability to tip your ears toward your shoulders.
 
-* Extension. Neck extension allows you to look up at the ceiling. Maintain good posture during this exercise to avoid pinching nerves in the back of your neck.
+- Extension. Neck extension allows you to look up at the ceiling. Maintain good posture during this exercise to avoid pinching nerves in the back of your neck.
 
-* Rotation. Rotation exercises allow you to look over your shoulders.
+- Rotation. Rotation exercises allow you to look over your shoulders.
 
-* Isometrics. Isometric exercises strengthen your neck and upper back muscles without allowing any movement. As with the range of motion exercises, maintain good posture throughout these movements.
+- Isometrics. Isometric exercises strengthen your neck and upper back muscles without allowing any movement. As with the range of motion exercises, maintain good posture throughout these movements.
 
 Source: [Livestrong](https://www.livestrong.com/article/121433-exercises-neck-whiplash/)
 
@@ -211,11 +211,11 @@ Source: [Statista](https://www.statista.com/statistics/705277/rate-of-concussion
 
 Sources:
 
-* [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987576/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987576/)
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987576/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3987576/)
 
-* [http://www.nytimes.com/2013/03/10/sports/concern-rising-over-sports-concussions-in-australia.html](http://www.nytimes.com/2013/03/10/sports/concern-rising-over-sports-concussions-in-australia.html)
+- [http://www.nytimes.com/2013/03/10/sports/concern-rising-over-sports-concussions-in-australia.html](http://www.nytimes.com/2013/03/10/sports/concern-rising-over-sports-concussions-in-australia.html)
 
-* [https://globalnews.ca/news/2392566/concussions-becoming-an-epidemic-problem-in-canadian-kids/](https://globalnews.ca/news/2392566/concussions-becoming-an-epidemic-problem-in-canadian-kids/)
+- [https://globalnews.ca/news/2392566/concussions-becoming-an-epidemic-problem-in-canadian-kids/](https://globalnews.ca/news/2392566/concussions-becoming-an-epidemic-problem-in-canadian-kids/)
 
 <object data="/assets/pdfs/ConcussionFAQ.pdf" type="application/pdf" width="100%" height="800px">
   <p>It appears you don't have a PDF plugin for this browser.
