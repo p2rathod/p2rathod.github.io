@@ -2,13 +2,13 @@
 name: Pratik Rathod
 description: Personal Blog
 meta_description: "Jekyll template, Medium styled, free for bloggers."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.png'
+logo: "assets/images/logo.png"
+favicon: "assets/images/favicon.png"
 paginate: 10
-baseurl: 
-google_analytics: 'UA-54596203-1'
-disqus: ''
-mailchimp-list: ''
+baseurl:
+google_analytics: "UA-54596203-1"
+disqus: ""
+mailchimp-list: ""
 
 # Authors
 authors:
@@ -20,20 +20,21 @@ authors:
     web: https://www.pratikrathod.com
     twitter: https://twitter.com/pratik_rathod
     description: "Learner. Adventurer. Entrepreneur. VP Product at @aboutPolar"
-  
+
 # Plugins
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-archives
-    
+  - jekyll-seo-tag
+
 # Archives
 jekyll-archives:
   enabled:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
+    category: "/category/:name/"
+
 # Other
 markdown: kramdown
 highlighter: rouge
