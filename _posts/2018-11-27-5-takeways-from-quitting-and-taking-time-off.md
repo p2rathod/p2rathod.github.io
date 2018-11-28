@@ -41,7 +41,7 @@ It's not in my nature to be open and trusting by default, but that's exactly wha
 
 ### 3. Bring Closure
 
-![Tiki's Water Bottle]({{site.url}}/assets/images/posts/travel/five-lessons/tikibottle.JPG "Tiki's Water Bottle")
+![Tiki's Water Bottle]({{site.url}}/assets/images/posts/travel/five-lessons/tikibottle.JPG "Tiki's New And Improved Water Bottle")
 
 Quitting, leaving, breaking up - that's 1/2 the battle. The second is closure - a completely different beast. For me, not having closure manifested in really weird ways (like a fixation on one semi-dumb startup idea for months).
 
@@ -51,7 +51,7 @@ So I gave (almost) all my Polar gear away - mostly to my dad. Win-win (he loves 
 
 ### 4. Pay Attention To The Negative Space
 
-![Skydiving In The Bay Of Islands]({{site.url}}/assets/images/posts/travel/five-lessons/tikibottle.JPG "Skydiving In The Bay Of Islands")
+![Skydiving In The Bay Of Islands]({{site.url}}/assets/images/posts/travel/five-lessons/negative_space.JPG "Skydiving In The Bay Of Islands")
 
 I've done a tonne so far. Here's a quick list:
 
