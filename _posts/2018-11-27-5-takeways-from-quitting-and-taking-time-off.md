@@ -18,7 +18,7 @@ So I decided to be a bum - and thought Ash should too. Co-bumming at 33. This is
 
 Here are 5 observations since taking the leap.
 
-### 1. How I Know I Made The Right Decision?
+### 1. The Decision?
 
 How do I know I made the right decision?
 
@@ -29,7 +29,7 @@ There is never a good time to leave, but that doesn't mean that any time is goo 
 
 I always admired Michael Jordan for leaving after his 3rd championship [whether it was forced or not](https://bleacherreport.com/articles/131997-mjs-1st-retirement-was-it-a-secret-suspension)! He left when the Bulls were at their best. Not that I'm Michael Jordan nor is Polar the Chicago Bulls - but you get the idea. If you're deciding to leave as a co-founder, leave after you've helped right the ship.
 
-### 2. Dealing With The Anxiety Of Not Having "Next".
+### 2. The Anxiety Without "Next"
 
 > "Leap and the net will appear" - Julia Cameron - The Artists Way
 
@@ -39,7 +39,7 @@ In that same [article linked above, by Sfej Jongen](https://www.linkedin.com/pul
 
 It's not in my nature to be open and trusting by default, but that's exactly what's needed. Fight the urge to be private. It'll make things easier for yourself. Guess what -- it'll also give permission to your partner, friends, and family to do the same.
 
-### 3. Bring Closure
+### 3. Bringing Closure
 
 ![Tiki's Water Bottle]({{site.url}}/assets/images/posts/travel/five-lessons/tikibottle.JPG "Tiki's New And Improved Water Bottle")
 
@@ -49,7 +49,7 @@ I still had Polar tshirts, sweaters, and hats. I even used the water bottle for 
 
 So I gave (almost) all my Polar gear away - mostly to my dad. Win-win (he loves free stuff)!
 
-### 4. Pay Attention To The Negative Space
+### 4. Paying Attention To The Negative Space
 
 ![Skydiving In The Bay Of Islands]({{site.url}}/assets/images/posts/travel/five-lessons/negative_space.JPG "Skydiving In The Bay Of Islands")
 
@@ -57,11 +57,13 @@ I've done a tonne so far. Here's a quick list:
 
 - Played golf at St. Andrews in Scotland
 - Trekked Mt. Kilimanjaro in Tanzania
-- Spent time at one of the best yoga retreat centres in Watamu, Kenya
-- Surfed in California - hiked at Yosemite
+- Spent time at one of the best yoga retreats globally in Watamu, Kenya
+- Surfed in California and hiked some of Yosemite's best trails
 - Traveled across Japan, spending time in Tokyo, Osaka, and Kyoto, as well as the country side
 - Skydived in New Zealand
 - Road tripped all along the North and South Island in New Zealand
+- Attended The Woodford Folk Festival -- 7 days of music, talks, workshops, and parties
+- Scoured the beaches of Australia's East coast
 
 But it's what I haven't done that is the most interesting
 
