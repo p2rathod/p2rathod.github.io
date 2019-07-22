@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A Reflection On 10 Years At Polar
-category: retrospective
-research: true
+category: build
+research: false
 image: assets/images/posts/polar-retrospective/firstparty.jpg
 featured: true
 travel_featured: true

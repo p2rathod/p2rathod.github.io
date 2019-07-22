@@ -144,6 +144,7 @@ section.recent-posts {
 .listrecent .wrapfooter {
   font-size: 12px;
   margin-top: 30px;
+  margin-bottom: auto;
 }
 .author-thumb {
   width: 40px;
@@ -193,6 +194,11 @@ span.post-read-more {
   float: right;
   margin-top: 8px;
 }
+
+span.post-read-more.postbox {
+  margin-top: 0px;
+}
+
 span.post-read-more a {
   color: rgba(0, 0, 0, 0.44);
 }
@@ -388,6 +394,9 @@ ul.tags {
   list-style: none;
   padding-left: 0;
   margin: 0 0 3rem 0;
+}
+ul.tags.postbox {
+  margin: 0;
 }
 ul.tags li {
   display: inline-block;
@@ -666,3 +675,7 @@ iframe {
   padding-right: 8px;
   /* padding-left: 3px; */
 }
+
+/* .img-fluid {
+  padding: 2px;
+} */

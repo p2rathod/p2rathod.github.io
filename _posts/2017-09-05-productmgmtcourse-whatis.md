@@ -6,15 +6,15 @@ category: product
 
 Product managers have a fun and exciting job. We get to learn, to build, and to communicate. We get to work with amazing teams, customers, and users. We have the luxury to be creative and process oriented at the same time. Our jobs can be fluid. We are accountable for driving success in a business line, product, or feature. The responsibilities of a product manager come in many forms. They are a function of the business profile. Some factors include:
 
-* The type of company (consultancy or product oriented)
-* The size of the company (large or small)
-* The customer, a user or an enterprise
+- The type of company (consultancy or product oriented)
+- The size of the company (large or small)
+- The customer, a user or an enterprise
 
 No matter the flavours, three themes stay consistent:
 
-* **Maximizing customer value**
-* **Maximizing competitive advantage**
-* **Maximizing long-term profitability**
+- **Maximizing customer value**
+- **Maximizing competitive advantage**
+- **Maximizing long-term profitability**
 
 That's exciting. Over the past century, these responsibilities have gone from shared ownership, to singular ownership (more on that in the next post). Not surprisingly, products are better, competitive, and more profitable than they have ever been in part, due to the role and ownership of a product.
 
@@ -41,23 +41,23 @@ Covering your responsibilities is part of the ask. To really push the needle, yo
 
 To recap, product managers exist to maximize:
 
-* customer value
-* competitive advantage
-* long term profitability
+- customer value
+- competitive advantage
+- long term profitability
 
 There are 4 areas of responsibility:
 
-* Domain knowledge
-* Strategy development
-* New product launch
-* Lifecycle management
+- Domain knowledge
+- Strategy development
+- New product launch
+- Lifecycle management
 
 There are 5 skills of a Product Manager are:
 
-* Sales
-* Technology
-* UX
-* Project Management
-* Data Analysis
+- Sales
+- Technology
+- UX
+- Project Management
+- Data Analysis
 
 Before we get deeper, we'll first want to look at how this role became critical to software startups. This will provide us with the grounding, appreciation, and excitement for the role. In the next lecture, we'll review the evolution of product management.

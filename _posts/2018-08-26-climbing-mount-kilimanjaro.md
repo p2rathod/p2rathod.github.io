@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Ascending Mount Kilimanjaro
+title: Ascending Mount Kilimanjaro
 category: travel
-research: true
+research: false
 image: assets/images/posts/travel/kili/celebrate.jpg
-featured: true
+featured: false
 travel_featured: true
 description: My trip up Kilimanjaro was the biggest challenge of my life, but I'd do it agian.
 location: Mount Kilimanjaro, Tanzania, Africa
@@ -50,6 +50,6 @@ We made it to the top despite the challenges. The shared experience with Asha, h
 
 Dipak and Pravina Mistry - they organized a 21 person family trip to Kilimanjaro. I don't know how they did it, but it was nothing short of magic.
 
-[Sleeping Children Around the World](http://scaw.org) - for running a fantastic organization helping children with bed and school kits all over the world. We raised over $20,000 CDN as part of the campaign and a number of people donated - so thank you to those beautiful souls as well.
+[Sleeping Children Around the World](http://scaw.org) - for running a fantastic organization helping children with bed and school kits all over the world. We raised over \$20,000 CDN as part of the campaign and a number of people donated - so thank you to those beautiful souls as well.
 
 Finally - thanks Asha - so unbelievably glad that I got the chance to do this with you.

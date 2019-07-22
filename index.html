@@ -7,108 +7,100 @@ title: Blog
 ================================================== -->
 
 <section class="featured-posts">
-    <div class="section-title">
-        <h2>
-            <span>Featured</span>
-        </h2>
-    </div>
-    <div class="row listfeaturedtag">
+  <div class="section-title">
+    <h2>
+      <span>Featured</span>
+    </h2>
+  </div>
+  <div class="row listfeaturedtag">
+    {% for post in site.posts %} {% if post.featured == true %} {% include
+    featuredbox.html %} {% endif %} {% endfor %}
+  </div>
+</section>
 
-        {% for post in site.posts %} {% if post.featured == true %} {% include featuredbox.html %} {% endif %} {% endfor %}
+<!-- Top Stories
+================================================== -->
 
-    </div>
-
+<section class="recent-posts">
+  <div class="section-title">
+    <h2>
+      <span>Top Posts</span>
+    </h2>
+  </div>
+  <div class="masonrygrid row listrecent">
+    {% for post in site.posts %} {% if post.topstory == true %} {% include
+    postboximg.html %} {% endif %} {% endfor %}
+  </div>
 </section>
 
 <!-- Research
 ================================================== -->
 
 <section class="recent-posts">
-    <div class="section-title">
-        <h2>
-            <span>FAQs And Research</span>
-        </h2>
-    </div>
-    <div class="masonrygrid row listrecent">
-
-        {% for post in site.posts %}
-            {% if post.research == true %}
-                {% include postbox.html %}
-            {% endif %}
-        {% endfor %}
-
-    </div>
-
+  <div class="section-title">
+    <h2>
+      <span>FAQs And Research</span>
+    </h2>
+  </div>
+  <div class="masonrygrid row listrecent">
+    {% for post in site.posts %} {% if post.research == true %} {% include
+    postbox.html %} {% endif %} {% endfor %}
+  </div>
 </section>
 
 <!-- Product
 ================================================== -->
 
 <section class="recent-posts">
-    <div class="section-title">
-        <h2>
-            <span>Product</span>
-        </h2>
-    </div>
-    <div class="masonrygrid row listrecent">
-
-        {% for post in site.posts %}
-            {% if post.category == "product" %}
-                {% include postbox.html %}
-            {% endif %}
-        {% endfor %}
-
-    </div>
-
+  <div class="section-title">
+    <h2>
+      <span>Product</span>
+    </h2>
+  </div>
+  <div class="masonrygrid row listrecent">
+    {% for post in site.posts %} {% if post.category == "product" %} {% include
+    postbox.html %} {% endif %} {% endfor %}
+  </div>
 </section>
 
 <!-- Systems
 ================================================== -->
 
 <section class="recent-posts">
-    <div class="section-title">
-        <h2>
-            <span>Systems</span>
-        </h2>
-    </div>
-    <div class="masonrygrid row listrecent">
-
-        {% for post in site.posts %}
-            {% if post.category == "system" %}
-                {% include postbox.html %}
-            {% endif %}
-        {% endfor %}
-
-    </div>
-
+  <div class="section-title">
+    <h2>
+      <span>Systems</span>
+    </h2>
+  </div>
+  <div class="masonrygrid row listrecent">
+    {% for post in site.posts %} {% if post.category == "system" %} {% include
+    postbox.html %} {% endif %} {% endfor %}
+  </div>
 </section>
 
 <!-- Posts Index
 ================================================== -->
 
 <section class="recent-posts">
-    <div class="section-title">
-        <h2>
-            <span>All Stories</span>
-        </h2>
-    </div>
-    <div class="masonrygrid row listrecent">
-
-        {% for post in paginator.posts %} {% unless post.featured == true %} {% include postbox.html %} {% endunless %} {% endfor
-        %}
-
-    </div>
-
+  <div class="section-title">
+    <h2>
+      <span>All Stories</span>
+    </h2>
+  </div>
+  <div class="masonrygrid row listrecent">
+    {% for post in paginator.posts %} {% unless post.featured == true %} {%
+    include postbox.html %} {% endunless %} {% endfor %}
+  </div>
 </section>
 
 <!-- Pagination
 ================================================== -->
 
 <div class="bottompagination">
-    <div class="pointerup">
-        <i class="fa fa-caret-up"></i>
-    </div>
-    <span class="navigation" role="navigation">
-        {% include pagination.html %}
-    </span>
+  <div class="pointerup">
+    <i class="fa fa-caret-up"></i>
+  </div>
+  <span class="navigation" role="navigation">
+    {% include pagination.html %}
+  </span>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: The Year, 2% at a Time
 layout: post
-category: system
+category: systems
 ---
 
 Why are we such reactive creatures? Is it North American culture? Is it me? At the end of 2014, a date (now my wife) asked a simple question: "What was the best year of your life?" I said 2008, the year I graduated from university, had epic trips with some of my best friends, and my the year my brother got married. Any year since then was hard to top.

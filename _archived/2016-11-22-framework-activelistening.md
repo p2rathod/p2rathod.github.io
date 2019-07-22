@@ -1,7 +1,7 @@
 ---
 title: 5 Steps to Active Listeining - A Framework to Navigate the Art
 layout: post
-category: system
+category: systems
 ---
 
 Face it - you haven't really listened. You, nor I are any good at it. Sure, we 'hear' what other people say, but we also often fade, day-dream, or fully move our attention elsewhere. The struggle is well [documented here](http://pratikrathod.com/long-form/2016/03/23/half-of-communication-is-never-saying-a-word.html).
