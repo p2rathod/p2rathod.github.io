@@ -39,6 +39,6 @@ jekyll-archives:
 markdown: kramdown
 highlighter: rouge
 
-title: P2rathod.github.io
+title: Pratik Rathod
 show_downloads: true
 theme: jekyll-theme-cayman
