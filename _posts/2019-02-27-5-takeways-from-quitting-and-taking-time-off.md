@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Takeaways From Quitting And Taking Time Off
+title: 5 Takeaways Taking Time Off
 category: systems
 research: false
 image: assets/images/posts/travel/five-lessons/lavie.JPG
