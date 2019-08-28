@@ -4,8 +4,8 @@ title: 5 Takeaways Taking Time Off
 category: systems
 research: false
 image: assets/images/posts/travel/five-lessons/lavie.JPG
-featured: false
-topstory: true
+featured: true
+topstory: false
 travel_featured: true
 description: 5 Observations From Taking Time Off After Quitting
 location: All Over The World

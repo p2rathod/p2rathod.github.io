@@ -33,21 +33,6 @@ title: Blog
   </div>
 </section>
 
-<!-- Research
-================================================== -->
-
-<section class="recent-posts">
-  <div class="section-title">
-    <h2>
-      <span>FAQs And Research</span>
-    </h2>
-  </div>
-  <div class="masonrygrid row listrecent">
-    {% for post in site.posts %} {% if post.research == true %} {% include
-    postbox.html %} {% endif %} {% endfor %}
-  </div>
-</section>
-
 <!-- Product
 ================================================== -->
 
@@ -63,17 +48,17 @@ title: Blog
   </div>
 </section>
 
-<!-- Systems
+<!-- Research
 ================================================== -->
 
 <section class="recent-posts">
   <div class="section-title">
     <h2>
-      <span>Systems</span>
+      <span>FAQs And Research</span>
     </h2>
   </div>
   <div class="masonrygrid row listrecent">
-    {% for post in site.posts %} {% if post.category == "system" %} {% include
+    {% for post in site.posts %} {% if post.research == true %} {% include
     postbox.html %} {% endif %} {% endfor %}
   </div>
 </section>
