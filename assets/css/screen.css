@@ -587,6 +587,11 @@ h6 {
 img {
   max-width: 100%;
 }
+
+.img-bordered {
+  border: 1px solid #ddd;
+  padding-bottom: 15px;
+}
 .bottompagination span.navigation {
   display: block;
   font-size: 0.93rem;
