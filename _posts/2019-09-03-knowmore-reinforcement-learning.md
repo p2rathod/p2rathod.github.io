@@ -33,7 +33,7 @@ Here's how I organize content:
 3. **Connected**: Help me better understand my family and friends' interests and industries, so I can deepen my connectedness.
 4. **Locale**: Help me understand what's happening in my community, my city, my province, my country, and globally so I can be better aware of the big stories around me.
 
-## Reinforcing What I Read
+## Reinforcing What I've Read
 
 Then I use KnowMore’s trivia game to help me remember the content, concepts, and facts of what I’ve read. We use spacial repetition — or repetition. By playing a quick trivia game, we begin to reinforce the connections our brain has already made. We also encode these facts in a new way (vs. just reading the text).
 
