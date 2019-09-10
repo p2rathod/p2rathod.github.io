@@ -78,4 +78,4 @@ Most of all, if you’re a professional, a knowledge-worker, or just someone who
 
 A friend once told me that forgetfulness is the biggest barrier to intelligence. How do you feel?
 
-If you’d like to learn more, or chat about the product, reach out via twitter (@pratik_rathod) or LinkedIn(https://www.linkedin.com/in/pratikrathod/)
+If you’d like to learn more, or chat about the product, reach out via Twitter (@pratik_rathod) or LinkedIn [https://www.linkedin.com/in/pratikrathod/](https://www.linkedin.com/in/pratikrathod/)
