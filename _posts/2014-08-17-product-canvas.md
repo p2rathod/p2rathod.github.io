@@ -4,7 +4,7 @@ layout: post
 category: product
 image: assets/images/product_canvas.002.jpg
 featured: false
-topstory: true
+topstory: false
 ---
 
 How do you move from problem to opportunity, and from opportunity to solution within a product organization? How do you make the process efficient, transparent, and repeatable? How do you build the right product, at the right time, for the right audience?

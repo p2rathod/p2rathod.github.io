@@ -3,7 +3,7 @@ layout: post
 title: Building Rafiki - A Chatbot
 category: build
 research: false
-topstory: true
+topstory: false
 image: assets/images/posts/rafiki/rafiki_doc.jpeg
 featured: false
 travel_featured: false

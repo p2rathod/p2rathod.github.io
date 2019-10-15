@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  The History of Product Management
+title: The Modern History of Product Management
 category: product
-image:
+image: assets/images/posts/product/product_history.jpg
 ---
 
 The product management field is relatively new. It’s so new, that there aren’t really any university programs to learn about it. When you say product manager, 9 out of 10 people don’t know what the hell you actually do. I think as a career path, we’re still trying to figure it out and that’s pretty damn exciting.

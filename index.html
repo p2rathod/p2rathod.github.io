@@ -44,7 +44,22 @@ title: Blog
   </div>
   <div class="masonrygrid row listrecent">
     {% for post in site.posts %} {% if post.category == "product" %} {% include
-    postbox.html %} {% endif %} {% endfor %}
+    postboximg.html %} {% endif %} {% endfor %}
+  </div>
+</section>
+
+<!-- Research
+================================================== -->
+
+<section class="recent-posts">
+  <div class="section-title">
+    <h2>
+      <span>Projects</span>
+    </h2>
+  </div>
+  <div class="masonrygrid row listrecent">
+    {% for post in site.posts %} {% if post.category == "build" %} {% include
+    postboximg.html %} {% endif %} {% endfor %}
   </div>
 </section>
 
@@ -59,7 +74,7 @@ title: Blog
   </div>
   <div class="masonrygrid row listrecent">
     {% for post in site.posts %} {% if post.research == true %} {% include
-    postbox.html %} {% endif %} {% endfor %}
+    postboximg.html %} {% endif %} {% endfor %}
   </div>
 </section>
 

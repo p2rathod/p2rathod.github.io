@@ -2,7 +2,11 @@
 title: What Is Product Management?
 layout: post
 category: product
+image: assets/images/posts/product/product_whatis.jpg
+description: 3 themes, 4 responsibilities, and 5 pillars.
 ---
+
+3 themes, 4 responsibilities, and 5 pillars. That's product in a nutshell.
 
 Product managers have a fun and exciting job. We get to learn, to build, and to communicate. We get to work with amazing teams, customers, and users. We have the luxury to be creative and process oriented at the same time. Our jobs can be fluid. We are accountable for driving success in a business line, product, or feature. The responsibilities of a product manager come in many forms. They are a function of the business profile. Some factors include:
 
