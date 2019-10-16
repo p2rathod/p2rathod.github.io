@@ -1,0 +1,30 @@
+---
+layout: page
+title: Projects
+comments: false
+---
+
+<!-- Featured
+================================================== -->
+
+<section class="featured-posts">
+  <div class="row listfeaturedtag">
+    {% assign featuredPosts = site.posts | where: 'category', 'build' %} {% for
+    post in featuredPosts limit:2%} {% include featuredbox.html %} {% endfor %}
+  </div>
+</section>
+
+<!-- Travel
+================================================== -->
+
+<section class="recent-posts">
+  <div class="section-title">
+    <h2>
+      <span>Project Posts</span>
+    </h2>
+  </div>
+  <div class="masonrygrid row listrecent">
+    {% assign allposts = site.posts | where: 'category', 'build' %} {% for post
+    in allposts %} {% include postbox.html %} {% endfor %}
+  </div>
+</section>

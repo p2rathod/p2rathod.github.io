@@ -8,12 +8,7 @@ comments: false
 ================================================== -->
 
 <section class="recent-posts">
-    <div class="masonrygrid row listrecent">
-
-        {% for post in site.posts %}
-                {% include postbox.html %}
-        {% endfor %}
-
-    </div>
-
+  <div class="masonrygrid row listrecent">
+    {% for post in site.posts %} {% include postbox.html %} {% endfor %}
+  </div>
 </section>
