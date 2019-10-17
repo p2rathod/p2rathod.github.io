@@ -38,8 +38,8 @@ This is a lot to ask for from just a few people. Luckily, you're not in it alone
 Covering your responsibilities is part of the ask. To really push the needle, you'll want to work on the soft skills that take you from novice to master. We bucket these skills into four areas. These are:
 
 1.  **Sales:** As you launch new products, drive adoption, and create internal consensus, you'll use your abiltiy to sell.
-2.  **Technology:** You'll want to work with your Engineering team and prototype solutions yourself. The ability to speak to, and use technology allows you to bring ideas to life.
-3.  **UX:** This is often overlooked. If users don't find your solution intuitive there is little chance that your product will succeed. Skills in information architecture, visual design, and user testing are helpful here.
+2.  **Adjacency: Technology And Economics:** As a product owner, you sit between your engineering and business teams. You'll want to be able to be educated with both. You'll want to work with your Engineering team and prototypes yourself. The ability to speak to, and use technology allows you to bring ideas to life. A deeper understanding of the economics of your solution adn market helps you communicate the opportunity in a way that resonates with decision makers. It also gives you a deeper understanding of the market opportunity.
+3.  **UX And Psychology:** This is often overlooked. If users don't find your solution intuitive there is little chance that your product will succeed. Skills in information architecture, visual design, and user testing are helpful here. A deeper understanding of human psychology and behavioral analytics will go a very long way in building solutions that are easy to use.
 4.  **Project Management:** You're managing your time and the time of others. Projects need coordination between teams. Your ability to stay organized, communicate, and keep everyone informed allows your project to move across teams.
 5.  **Data Analysis:** You're analyzing signals to better understand your market, competitors, customers, and users. I name this, excelling at MS Excel (or Google Sheets). Even better is to be able to use MySQL (or other data stores). I can't harp on this enough. Being data driven is foundational to Product Management.
 
@@ -59,9 +59,9 @@ There are 4 areas of responsibility:
 There are 5 skills of a Product Manager are:
 
 - Sales
-- Technology
-- UX
+- Adjacency (tech and econ)
+- UX (and psych)
 - Project Management
 - Data Analysis
 
-Before we get deeper, we'll first want to look at how this role became critical to software startups. This will provide us with the grounding, appreciation, and excitement for the role. In the next lecture, we'll review the evolution of product management.
+Hope you can use this as a barometer and framework of how you create demonstrable expertise in product management.
