@@ -7,7 +7,7 @@ image: assets/images/posts/travel/five-lessons/lavie.JPG
 featured: true
 topstory: false
 travel_featured: true
-description: 5 Observations From Taking Time Off After Quitting
+description: A few observations during an extended vacation - a mini-retirement.
 location: All Over The World
 ---
 
