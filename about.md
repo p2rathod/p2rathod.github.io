@@ -8,7 +8,7 @@ comments: false
 
 I’m an adventurer, learner, and product leader. Here, you’ll find some of my research, posts about product management and entrepreneurship, as well as some of the values I hold near.
 
-Currently, I'm working on [KnowMore](https://knowmore.app) - a continuous learning platform for professionals. KnowMore helps individuals discover, learn, and most importantly, retain information. We've built a knowledge-centric news feed and an AI-driven trivia platform. The technology is built on top of the open-web. We work with knowledge workers across industries, helping them stay smart.
+During the summer of 2019, I helped build [KnowMore](https://knowmore.app) - a content and knowledge platform. KnowMore includes a publisher-centric news feed and an AI-driven trivia app. The technology is built on top of the open-web and helps professionals **broaden awareness, while staying unplugged**. Always-on culture has a place, but it's not here.
 
 I was previously Co-Founder and VP of Product at [Polar](http://polar.me). There, I helped build a suite of advertising and content distribution products for premium publishing clients. I’ve worked exclusively with premium media companies like [Oath](http://oath.com), [Gannett](http://gannett.com), [News Corp](http://newscorp.com), and [Telegraph UK](http://telegraph.co.uk) since 2008.
 
