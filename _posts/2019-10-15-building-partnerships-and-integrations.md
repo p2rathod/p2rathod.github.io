@@ -7,7 +7,7 @@ topstory: true
 image: assets/images/posts/product/integration_roadmap.png
 featured: true
 travel_featured: false
-description: Partnerships have long been central to our humanity. Though we have companies such as Apple, Facebook, and Google to look up to, I advocate for a partnership and integration model to be considered central to long-term product strategy.
+description: Partnerships have long been central to our humanity. I advocate for a partnership and integration model as a central tenet to long-term product strategy.
 location: Toronto, Ontario
 ---
 
