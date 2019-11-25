@@ -11,23 +11,17 @@ description: Partnerships have long been central to our humanity. Though we have
 location: Toronto, Ontario
 ---
 
-We live in a world where walled-gardens have become industry-leaders; a world in which winner-takes-all has become popular. It wasn't like this that long ago. Licensing, and eco-system building were once the dominant strategy (see VHS vs. Betamax and Microsoft vs. Apple in the '90s). I think we
+It's rare these days to deliver a product that only leverages first-party data and services. The digital products that I've used and the ones I continue to build leverage ecosystem partners to solve acute customer needs. I think leveraging ecosystem partners to provide integrated experiences leads to cleaner user experiences, privacy through complexity, and a market in which all participants grow.
 
-In more cases than not, we have seen the consumer suffer. With a walled-garden, users put a disconcerting amount of trust in the platform to 'play nice and play smart'. On the other hand, in a segmented and disparate market, users are stuck with moving information between tools manually.
+At my last company (Polar), partnerships and integrations were a core concept to a strategy I helped develop. We integrated with ad servers, demand partners, and data platforms to help deliver enterprise grade software for content publishng customers. Over the last 5 years, I have led over a dozen ecosystem integrations. During this time, we had two major observations: a) There were many organizations solving adjacent problems, and b) There was a limit on time and people.
 
-I'm a purveyor of balance. I think leveraging ecosystem partners to provide a vertically integrated experience leads to frictionless user journies, privacy through complexity, and a market in which all participants grows. It was core to a strategy I helped develop at my last company (Polar). We integrated with ad servers, demand partners, and data platforms. We had two major observations: a) many organizations solving adjacent problems, and b) a resource constraint (we didn't have hundreds of engineers to rebuild what was already in market). Over the last 5 years, I have led over a dozen ecosystem integrations. Polar employs 45+ team members in 4 countries and is profitable. Companies that we have integrated with have had continued success (and even some exits), partly because of our supported partnerships.
+Partnerships are not new in technology - they're just tough. Like most relationships, they're difficult to navigate and track. It's why I've put together the "Partnership Relationship Model"(PRM). Through the integrations I've set up, I've used PRM to help me better understand the strength of my partnerships. If we believe that stronger partnerships lead to incredible user growth and cleaner user experiences, then this might be valuable to you also.
 
-Partnerships are new in technology - they're just often tough to navigate. JVC's VHS format became commonplace, in part because they chose to create an open standard. They thought that this was best for the consumer and went on to dominate the North American market. Consumer-centricity always wins.
-
-In the novel, Sapiens, Yuval Harari speaks about the key advantage of human beings -- the ability to work together. It's why human beings dominated despite being surrounded by more powerful species. If we begin to think of organizations as living organisms, then we too will understand the power of leveraging the ecosystem. Successful partnerships are how 'we' win. An integration strategy is a rising tide.
-
-That said, integrations are hard. Like most relationships, they're difficult to navigate and track. Through the integrations I've set up, I've used the following mental model to help me better understand the strength of my partnerships. If we believe that stronger partnerships lead to incredible user growth and cleaner user experiences, then this might be valuable to you also.
-
-The focus of this model is on software integrations specifically. The following is meant to compliment the [partnership canvas](https://valuechaingeneration.com/2014/10/17/the-partnership-canvas/), which does an excellent job and layering in high-level planning and goal setting. The framework below dives deeper with regards to 'Transfer Activities'. I would love to hear feedback from product owners across industries.
+The focus of this model is on software integrations specifically. The following is meant to compliment the [partnership canvas](https://valuechaingeneration.com/2014/10/17/the-partnership-canvas/), which does an excellent job and layering in high-level planning and goal setting. The framework below dives deeper, specifically in relation to 'Transfer Activities'.
 
 # Integrations
 
-Let’s be clear on what I mean by integration: Creating customer value by transferring information (the value unit), often programmatically, with another company that is solving an adjacent problem.
+First, let’s be clear on what I mean by integration: Creating customer value by transferring information (the value unit), often programmatically, with another company that is solving an adjacent problem.
 
 There are 5 key categories to consider. In sequential order of execution:
 
@@ -55,7 +49,7 @@ If each step across a category is worth a point, then you'd be able to score you
 Let's use an easy example of paying a friend back.
 
 - **Manual**  
-  This state is important. It shows, that even though you may not programmatically integrate, that you are indeed already integrated via a manual step that your user or customer has to perform. (e.g. a friend giving you cash the next time they see you).
+  This state is important. It shows, that even though you may not programmatically integrate, that you are indeed already integrated via a manual step that your user has to perform. (e.g. a friend giving you cash the next time they see you).
 - **Assisted**  
   This step helps your users transfer data, without doing it in a completely automated fashion. As an example, this can range from producing a CSV file that they can upload into another platform, all the way to an API integration that requires user authentication and approval. There is still a manual step, but it is supported by technology. (e.g. e-transfer of money)
 - **Automatic**  
@@ -105,13 +99,13 @@ Let's look at a couple examples.
 
 ### VHS vs. Betamax
 
-First, we look at VHS, an inferior technology that gained wide adoption and ultimately beat out Betamax as a universal standard. How did they do this? Through a licensing strategy, they partnered with VCR manufacturers globally. Overnight, both VHS and its manufacturers delivered video into everyone's home. On the other hand, Sony's Betamax which operated within a closed system, failed to gain any significant traction.
+First, we look at VHS, an inferior technology that gained wide adoption and ultimately dominated Betamax as a universal standard. How did they do this? Through a licensing strategy, they partnered with VCR manufacturers globally. Overnight, both VHS and its manufacturers delivered video into everyone's home. On the other hand, Sony's Betamax which operated within a closed system, failed to gain any significant traction.
 
 ![Integration Roadmap]({{site.url}}/assets/images/posts/product/integration_example_vhs.png)
 
 ### Polar and MOAT
 
-At Polar, we built technology that allowed the company to ad serve high value content. MOAT was quickly becoming the leader in viewability metrics across the industry, and so we dcided to partner very early. The relationship, both technically and from a business perspective proved to be fruitful. Our customers gained viewability metrics on all of their Polar driven ad units, allowing both of our companies and our shared customers to deliver on advertiser value.
+At Polar, we built technology that allowed the company to ad serve high value content. MOAT had great founders and a solid technical team. We decided to partner very early. The relationship, both technically and from a business perspective proved to be fruitful. Our customers gained viewability metrics on all of their Polar driven ad units, allowing both of our companies and our shared customers to deliver on advertiser value.
 
 ![Integration Roadmap]({{site.url}}/assets/images/posts/product/integration_example_polar.png)
 
@@ -119,7 +113,7 @@ This roadmap can be used to better chart your partnership and integration strate
 
 ## Challenges
 
-While I wish each partnership was easy, it turns out that there are challenges at each step. The chart below mentions a few of them, and while I won't go into too much detail, it's important to actively plan against each negative outcome as you move along.
+While I wish each partnership was easy, it turns out that there are challenges at each step. The chart below mentions a few of them, and while I won't go into too much detail, it's important to create contingency plans against each negative outcome as you move along the model.
 
 ![Integration Roadmap]({{site.url}}/assets/images/posts/product/integration_challenges.png)
 
@@ -154,5 +148,3 @@ Pay attention to the market. I'll borrow lessons from Blue Ocean Strategy again:
 - Walk The Customer Journey: Develop your journey map and personas. You'll quickly realize what types of partnerships will create impact. Then validate the assumption with data. When you're ready to activate it, then be sure to solve 100% of the problem. Partial solutions create havoc and are rarely adopted.
 
 All in all, integrations are an incredibly important part of the process. It creates an immense amount of business and product value, decreases time to market, and often creates competitive moats - all values of a good product.
-
-Do you have an integration strategy? I'd love to hear what it looks like.
