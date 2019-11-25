@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Roadmap For Product Partnerships And Integrations
+title: The Partnership Scorecard - A Roadmap For Product Partnerships And Integrations
 category: product
 research: false
 topstory: true
@@ -15,7 +15,7 @@ These days, it's rare to find products that only leverage first-party data and s
 
 At my last company (Polar), partnerships and integrations were a core concept to a strategy I helped develop. We integrated with ad servers, demand partners, and data platforms to help deliver enterprise grade software for content publishng customers. Over the last 5 years, I have led over a dozen ecosystem integrations. During this time, we made two major observations: a) There were many organizations solving adjacent problems, and b) There was a limit on time and people.
 
-Partnerships are not new in technology - they're just tough. Like most relationships, they're difficult to navigate and track. It's why I put together the **Partnership Relationship Mode (PRM)**. Through the integrations I've set up, I've used PRM to help me better understand the strength of my partnerships. If you believe that stronger partnerships lead to incredible user growth and cleaner user experiences, then this might be valuable to you also.
+Partnerships are not new in technology - they're just tough. Like most relationships, they're difficult to navigate and track. It's why I put together the **Partnership Scorecard**. Through the integrations I've set up, I've used the scorecard to help me better understand the strength of my partnerships. If you believe that stronger partnerships lead to incredible user growth and cleaner user experiences, then this might be valuable to you also.
 
 The focus of this model is on software integrations specifically. The following is meant to compliment the [partnership canvas](https://valuechaingeneration.com/2014/10/17/the-partnership-canvas/), which does an excellent job and layering in high-level planning and goal setting. The framework below dives deeper, specifically in relation to 'Transfer Activities'.
 
