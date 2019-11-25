@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Partnership Scorecard - A Roadmap For Product Partnerships And Integrations
+title: The Partnership Scorecard - A Roadmap For Product Integrations
 category: product
 research: false
 topstory: true
