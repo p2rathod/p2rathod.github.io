@@ -11,15 +11,13 @@ location: Toronto, Ontario, Canada
 topstory: false
 ---
 
-We wasted Engineering cycles on inconsequential features. We wasted cycles on the whim of the founders (including mine). Opinions ‘trumped’ data, in the name of speed. Often, the highest-ranking person in the room won. Pretty dumb. We were young and foolish.
+During the early years, we wasted Engineering cycles on inconsequential features. We wasted cycles on the whim of the founders (including mine). Opinions ‘trumped’ data in the name of speed. Often, the highest-ranking person in the room won. Pretty dumb.
 
-For a 40 person team, with little in funding, taking on competitors like Google and Sharethrough (\$45m raised, a staff of 150+), we needed to be better. Our sense was good, but not good enough. I’d guess that we wasted as much as a third of our product investments. There was a way to do it better. No one wants to work on products that no one uses.
+For a 40 person team, with little in funding, taking on competitors like Google and Sharethrough (\$45m raised, a staff of 150+), we needed to be better. Our sense was good, but not good enough. I’d guess that we wasted as much as a third of our product investments. There was a way to do it better.
 
-So, I built an internal process and named it DEPA. The process helped us move fast, but not haphazardly. It marries opinion with deep foundations of evidence. I wanted our product team to deliver with calculated aggression. We used DEPA to punch above our weight, and then some. Our team consisted of 3 product managers (including myself), and 1 designer. We operated lean.
+So, I built an internal process and named it DEPA. The process helped us move fast, but not haphazardly. Most importantly, the process helped us increase our chances of maximizing customer and business value. It reduced the risk of wasted cycles, which was important in a competitive market. We couldn't throw money at the problem, so we had to out-execute. And we did.
 
-The process helped us increase our chances of creating customer and business value. It reduced the risk of wasted cycles, which was important in a competitive market. We couldn't throw money at the problem, so we had to out-execute. And we did.
-
-These systems were right for Polar at the time. That's how processes and systems deliver best-in-class execution; they are contextual. In this post, I describe what DEPA is. At a high level, it feels simple. That's a sign of something that works. I’d love to hear why DEPA might, or might not be relevant for you (find me on twitter, @pratik_rathod).
+In this post, I describe what DEPA is. At a high level, it feels simple. That's a sign of something that works. I’d love to hear why DEPA might, or might not be relevant for you (find me on twitter, @pratik_rathod).
 
 A bit of context: My experience with DEPA is in operating in a B2B organization, building a direct-sold monetization platform for the top media companies globally (Oath, Conde Nast, News Corp, and many more). Like most enterprise solutions, we had many personas using the platform. Our platform not only serviced external customers but also internal ones. That is, we built features for external stakeholders and internal service providers.
 
