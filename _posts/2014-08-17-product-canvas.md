@@ -23,7 +23,7 @@ The three areas of the _Product Canvas_ are:
 
 At Polar, the Product Canvas has become the launchpad for product updates and new features. Below is a depiction with descriptions and use cases.
 
-![Product Canvas Description]({{site.url}}/images/product_canvas.002.jpg)
+![Product Canvas Description]({{site.url}}/assets/images/product_canvas.002.jpg)
 
 ### The benefits
 
@@ -40,4 +40,4 @@ Pratik
 
 <hr/>
 
-![Product Canvas Empty](/../images/product_canvas.001.png)
+![Product Canvas Empty]({{site.url}}/assets/images/product_canvas.001.png)
