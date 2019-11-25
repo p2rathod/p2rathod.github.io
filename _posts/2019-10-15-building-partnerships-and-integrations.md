@@ -103,12 +103,6 @@ First, we look at VHS, an inferior technology that gained wide adoption and ulti
 
 ![Integration Roadmap]({{site.url}}/assets/images/posts/product/integration_example_vhs.png)
 
-### Polar and MOAT
-
-At Polar, we built technology that allowed the company to ad serve high value content. MOAT had great founders and a solid technical team. We decided to partner very early. The relationship, both technically and from a business perspective proved to be fruitful. Our customers gained viewability metrics on all of their Polar driven ad units, allowing both of our companies and our shared customers to deliver on advertiser value.
-
-![Integration Roadmap]({{site.url}}/assets/images/posts/product/integration_example_polar.png)
-
 This roadmap can be used to better chart your partnership and integration strategy. I hope it helps.
 
 ## Challenges
