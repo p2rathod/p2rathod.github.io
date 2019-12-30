@@ -38,7 +38,8 @@ I guarantee your team's mindset will shift if you work through this exercise.
 Note: Though I generally share examples, I won't here. When done right, it's IP for a business. It's relevant to a specific industry, so an sample won't generically be helpful. That's part of the reason that so many of the examples online are bogus.
 
 Great personas help product teams make better decisions. And ultimately, the teams that make better decisions are the teams that win.
-![Kano Model]({{site.url}}/assets/images/posts/product/personas_kano.png)
+
+![Kano Model]({{site.url}}/assets/images/posts/product/persona_kano.png)
 
 Here are the sections I generally include in any persona:
 * Photo and name (make sure they’re either fake your you have permission to use them)
