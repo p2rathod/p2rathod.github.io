@@ -26,7 +26,7 @@ How do I know I made the right decision?
 Any resentment, contempt, or regret I thought I might have hasn't come up yet. Just a genuine love for them, for their growth, for their impact on my growth. Any shorter, and I may have asked 'what-if'? Would I celebrate Polar's success? Would I post about their achievements, even when I'm not there? Absolutely. That's how I know I made the right decision. It's pure love.
 
 Here's the other thing:
-There is never a good time to leave, but that doesn't mean that any time is goo either (as written [here](https://www.linkedin.com/pulse/quitting-your-job-taking-time-off-4-observations-sjef-jongen/)). I left when things were good, when the tide was rising. I helped shape that. It meant enough to me to get the ship pointing in the right direction, rather than letting it sink. I think this fundamentally changed the dynamic for the better.
+There is never a good time to leave, but that doesn't mean that any time is good either (as written [here](https://www.linkedin.com/pulse/quitting-your-job-taking-time-off-4-observations-sjef-jongen/)). I left when things were good, when the tide was rising. I helped shape that. It meant enough to me to get the ship pointing in the right direction, rather than letting it sink. I think this fundamentally changed the dynamic for the better.
 
 I always admired Michael Jordan for leaving after his 3rd championship [whether it was forced or not](https://bleacherreport.com/articles/131997-mjs-1st-retirement-was-it-a-secret-suspension)! He left when the Bulls were at their best. Not that I'm Michael Jordan nor is Polar the Chicago Bulls - but you get the idea. If you're deciding to leave as a co-founder, leave after you've helped right the ship.
 
