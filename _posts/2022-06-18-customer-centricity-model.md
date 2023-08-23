@@ -3,8 +3,8 @@ layout: post
 title: The Customer Centricity Maturity Model
 category: product
 research: false
-topstory: false
-featured: false
+topstory: true
+featured: true
 travel_featured: false
 image: assets/images/posts/product/customer_centricity.png
 description: How product teams navigate what it means to be customer centric.

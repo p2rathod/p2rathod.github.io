@@ -4,7 +4,7 @@ title: DEPA - How to build products that deliver continuous customer value.
 category: product
 research: false
 image: assets/images/posts/product/depalogo.png
-featured: true
+featured: false
 travel_featured: false
 description: A process named DEPA helps us increase our throughput and probability of building the 'right' thing. We use this process to deliver layers of innovation and customer value.
 location: Toronto, Ontario, Canada
