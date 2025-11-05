@@ -30,6 +30,7 @@ Here is a 5-stage AI maturity model, framed through the lens of a common, comple
 This is the "new hire" on their first day. The AI does nothing on its own. It acts as a simple assistant, augmenting a human who remains 100% in control. Trust in the AI is minimal, and it needs constant supervision.
 
 * **The Goal:** The product challenge is all about **UX and validation speed.** How do you present the AI's suggestions? How fast can the user tab through and approve? The UI must be built for seamless human correction, because the human *is* the process. The business value is a direct assault on manual data entry, reducing human error and lowering the cost-per-invoice. This is the first, essential rung on the automation ladder.
+
 * **AP Example:** An AP clerk receives a PDF invoice. The AI scans the document and suggests "Vendor: Acme Inc." and "Amount: $1,200." The clerk must manually review and confirm *every single field* before the bill is created.
 ---
 
