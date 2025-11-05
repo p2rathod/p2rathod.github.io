@@ -69,7 +69,7 @@ This is your "strategic advisor" or "VP." They are no longer just reacting to *p
 
 ---
 
-### ## Walk With Your Customer
+## Walk With Your Customer
 
 The leap from Stage 1 to Stage 5 is exciting. It's what we all want to build.
 
