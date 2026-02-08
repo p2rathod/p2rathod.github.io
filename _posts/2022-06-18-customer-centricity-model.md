@@ -39,7 +39,7 @@ Achieving product-market-fit (PMF) is no longer a guessing game, but a process a
 ## Level 3: Category leadership:
 The team knows its customer's future needs better than tehy do becase they see the macro-shifts in the industry, and have a pointed view of their role. Teams aren't just responding to the market -- they're defining it. The team quickly moves from being a 'vendor' to being a 'partner' and customers aren't just purhcasing software and features -- they're betting their careres on the team's roadmap.
 
-![five-dimensions-of-cc]({{site.url}}/assets/images/posts/product/customer-centricity/customer-centricity-flywheel.jpeg
+![five-dimensions-of-cc]({{site.url}}/assets/images/posts/product/customer-centricity/customer-centricity-flywheel.jpeg)
 
 # Customer centricity is measured across 5 dimensions:
 No maturity model is complete without the underlying skills, and here I share a system of evaluation.
