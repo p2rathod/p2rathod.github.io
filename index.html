@@ -6,17 +6,36 @@ title: Blog
 <!-- Featured
 ================================================== -->
 
-<section class="featured-posts">
-  <div class="section-title">
-    <h2>
-      <span>Featured</span>
-    </h2>
-  </div>
-  <div class="row listfeaturedtag">
-    {% for post in site.posts %} {% if post.featured == true %} {% include
-    featuredbox.html %} {% endif %} {% endfor %}
+{% assign hero_post = site.posts | where: "featured", true | first %}
+{% if hero_post %}
+{% assign hero_author = site.authors[hero_post.author] %}
+<section class="blog-hero">
+  <a class="hero-media" href="{{ hero_post.url | relative_url }}">
+    {% if hero_post.image %}
+    <img src="{{ site.baseurl }}/{{ hero_post.image }}" alt="{{ hero_post.title }}" />
+    {% endif %}
+  </a>
+  <div class="hero-copy">
+    <div class="post-tags">
+      <a href="{{ site.baseurl }}/category/{{ hero_post.category | slugify }}/">{{ hero_post.category }}</a>
+      <span>{{ hero_post.date | date_to_string }}</span>
+    </div>
+    <h1><a href="{{ hero_post.url | relative_url }}">{{ hero_post.title }}</a></h1>
+    <p>{{ hero_post.description | default: hero_post.excerpt | strip_html | truncatewords: 28 }}</p>
+    <div class="post-meta">
+      {% if hero_post.author %}
+      <img
+        class="author-thumb"
+        src="https://www.gravatar.com/avatar/{{ hero_author.gravatar }}?s=250&d=mm&r=x"
+        alt="{{ hero_author.display_name }}"
+      />
+      <span>{{ hero_author.display_name }}</span>
+      {% endif %}
+      <time datetime="{{ hero_post.date | date: '%Y-%m-%d' }}">{{ hero_post.date | date_to_string }}</time>
+    </div>
   </div>
 </section>
+{% endif %}
 
 <!-- Top Stories
 ================================================== -->
@@ -28,7 +47,7 @@ title: Blog
     </h2>
   </div>
   <div class="masonrygrid row listrecent">
-    {% for post in site.posts %} {% if post.topstory == true %} {% include
+    {% for post in site.posts %} {% if post.topstory == true and post.url != hero_post.url %} {% include
     postboximg.html %} {% endif %} {% endfor %}
   </div>
 </section>

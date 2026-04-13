@@ -11,7 +11,7 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 
-<div class="container">
+<div class="container post-container">
     <div class="row">
 
         <!-- Post Share -->
@@ -23,19 +23,21 @@ post_class: post-template
         <!-- Post -->
         {% assign author = site.authors[page.author] %}
 
-        <div class="col-md-8 col-md-offset-2 col-xs-12">
-            <div class="mainheading">
+        <article class="col-md-8 col-md-offset-2 col-xs-12 post-article">
+            <div class="mainheading post-heading">
+
+                <div class="post-tags">
+                    <a href="{{ site.baseurl }}/category/{{ page.category | slugify }}/">{{ page.category }}</a>
+                    {% if page.location %}<span>{{ page.location }}</span>{% endif %}
+                </div>
 
                 <!-- Author Box -->
                 {% if page.author %}
                 <div class="row post-top-meta">
-                    <div class="col-md-2">
+                    <div class="col-md-12">
                         <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
-                    </div>
-                    <div class="col-md-10">
                         <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
-                        <a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-                        <span class="author-description">{{ author.description }}</span>
+                        <time class="post-date" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
                     </div>
                 </div>
                 {% endif %}
@@ -59,7 +61,7 @@ post_class: post-template
             <p>
                 <small>
                     <span class="post-date">
-                        <time class="post-date" datetime="{{ page.date | date:" %Y-%m-%d " }}">{{ page.date | date_to_string }}</time>
+                        <time class="post-date" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
                     </span>
                     {% if page.last_modified_at %} (Updated:
                     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>) {% endif %}
@@ -81,14 +83,14 @@ post_class: post-template
             <!-- Prev/Next -->
             <div class="row PageNavigation">
                 {% if page.previous.url %}
-                <a class="col-md-6 prev" href="{{page.previous.url | absolute_url}}">&laquo; {{page.previous.title}}</a>
+                <a class="col-md-6 prev" href="{{page.previous.url | relative_url}}">&laquo; {{page.previous.title}}</a>
                 {% endif %} {% if page.next.url %}
-                <a class="col-md-6 text-right next" href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
+                <a class="col-md-6 text-right next" href="{{page.next.url | relative_url}}">{{page.next.title}} &raquo;</a>
                 {% endif %}
             </div>
             <!-- End Categories -->
 
-        </div>
+        </article>
         <!-- End Post -->
 
     </div>

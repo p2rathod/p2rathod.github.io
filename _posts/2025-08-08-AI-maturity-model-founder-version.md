@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Agents Need A Promotion Path, Not Nepitism.
-category: product
+category: ai
 research: false
 topstory: true
 featured: true

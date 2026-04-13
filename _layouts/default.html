@@ -6,12 +6,19 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
+    {% assign preview_description = page.description | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 %}
+    {% assign preview_image = page.image | default: site.image | default: site.logo %}
+    {% unless preview_image contains '://' %}
+      {% assign preview_image = preview_image | absolute_url %}
+    {% endunless %}
     {% seo %}
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png" />
-    <title>{{ page.title }} | {{ site.name }}</title>
-    {% if page.description %}
-    <meta name="description" content="{{ page.description }}" />
-    {% endif %}
+    <meta name="description" content="{{ preview_description }}" />
+    <meta property="og:image" content="{{ preview_image }}" />
+    <meta property="og:image:secure_url" content="{{ preview_image }}" />
+    <meta property="og:image:alt" content="{{ page.title | default: site.title }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="{{ preview_image }}" />
     <link
       rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
@@ -23,7 +30,7 @@
       rel="stylesheet"
     />
     <link
-      href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i"
+      href="https://fonts.googleapis.com/css?family=Inter:400,500,600,700%7CMerriweather:400,700,900"
       rel="stylesheet"
     />
     <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet" />
@@ -81,11 +88,7 @@
       <div class="container">
         <!-- Begin Logo -->
         <a class="navbar-brand" href="{{ site.baseurl }}/">
-          <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" />
           Pratik Rathod
-          <span class="minibrand navbar-collapse"
-            >Learner, adventurer, and entreprener.</span
-          >
         </a>
 
         <!-- End Logo -->
@@ -95,18 +98,19 @@
           <!-- Begin Menu -->
           <ul class="navbar-nav ml-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
+              <a class="nav-link" href="{{ site.baseurl }}/">Blog</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/product"
-                >Product Management</a
-              >
+              <a class="nav-link" href="/category/ai/">AI</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/build">Build</a>
+              <a class="nav-link" href="/category/build/">Build</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+              <a class="nav-link" href="/category/product/">Product</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}/about">About Me</a>
             </li>
             <li class="nav-item">
               <a
@@ -217,13 +221,8 @@
             Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
           </p>
           <p class="pull-right">
-            <!--
-              Please, leave credit to author unless you make a donation: https://www.wowthemes.net/freebies-license/
-            -->
-            <a target="_blank" href="https://www.wowthemes.net"
-              >Mediumish Theme</a
-            >
-            by WowThemes.net
+            Theme foundation:
+            <a target="_blank" href="https://www.wowthemes.net">Mediumish</a>
           </p>
           <div class="clearfix"></div>
         </footer>

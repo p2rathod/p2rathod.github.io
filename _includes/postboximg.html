@@ -2,19 +2,23 @@
 {% assign author = site.authors[post.author] %}
 
 <div class="col-md-4 grid-item">
-  <div class="card">
-    <a href="{{ post.url | absolute_url }}">
-      {% if post.image %}
+  <article class="card post-card">
+    {% if post.image %}
+    <a href="{{ post.url | relative_url }}">
       <img
         class="img-fluid"
         src="{{ site.baseurl }}/{{ post.image }}"
         alt="{{ post.title }}"
       />
-      {% endif %}
     </a>
+    {% endif %}
     <div class="card-block">
+      <div class="post-tags">
+        <a href="{{ site.baseurl }}/category/{{ post.category | slugify }}/">{{ post.category }}</a>
+        <span>{{ post.date | date_to_string }}</span>
+      </div>
       <h2 class="card-title">
-        <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h2>
       <h4 class="card-text">
         {{ post.excerpt | strip_html | truncatewords: 30 }}
@@ -39,7 +43,6 @@
             </span>
             <br />
             {% endif %}
-            <span class="post-date">{{ post.date | date_to_string }}</span>
           </span>
           <span class="post-read-more postbox">
             <!-- Post Categories -->
@@ -60,6 +63,6 @@
         </div>
       </div>
     </div>
-  </div>
+  </article>
 </div>
 <!-- end post -->

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Rafiki - A Lifestyle Concierge
-category: build
+category: ai
 research: false
 image: assets/images/posts/rafiki/rafiki_logo.jpeg
 featured: false
 travel_featured: false
 description: We built a lifestyle concierge to help manage planning, coordinating, and maximizing our time. It was called "Rafiki".
-location: Toronto, Ontario
+location: Toronto
 ---
 
 After traveling for [8 months with the wifey](/system/2019/02/27/5-takeways-from-quitting-and-taking-time-off.html), I decided to take a time to work on several products and projects that had been top of mind.
