@@ -11,15 +11,15 @@ description: A 5-stage maturity model for product leaders to deploy AI and win.
 location: Toronto, Ontario
 ---
 
-As a product leader, I'm saturated with the promise of AI. We’re sold revolutionary, world-changing platforms in every pitch deck. The hype is real, but so is the gap between that grand vision and our customers’ daily reality.
+I'm saturated with the promise of AI. We’re sold revolutionary, world-changing platforms in every pitch deck. The hype is real, but so is the gap between that grand vision and our daily reality.
 
-Our users aren't thinking about "AGI." They're thinking about the mountain of invoices they need to process, the data they have to enter manually, and the tedious, repetitive tasks that drain their day.
+I'm not thinking about "AGI." I'm thinking about the mountain of work that I need to process, the data I have to enter manually, and the tedious, repetitive tasks that drain my day.
 
-Many of us want to build an AI that acts like an autonomous leader from day one. But our customers think of AI in a much more human way: as an employee. You don't hire an intern on Monday and make them a VP on Friday. You hire them, you train them, you supervise them, and you gradually build trust. Only after they've proven their competence on small tasks can you promote them to run the whole show.
+Many of us want to build an AI that acts like an autonomous leader from day one. But most think of AI in a much more human way: as an employee. You don't hire an intern on Monday and make them a VP on Friday. You hire them, you train them, you supervise them, and you gradually build trust. Only after they've proven their competence on small tasks can you promote them to run the whole show.
 
-The most successful AI products will be the ones that honor this journey. They will meet customers at Stage 1—with a supervised junior assistant—and build a bridge of trust, utility, and value that walks them, step-by-step, to the promised land.
+The most successful AI products will be the ones that honor this journey. They will meet customers at Stage 1—with a supervised junior assistant—and build a bridge of trust, utility, and value that walks them, step-by-step. Customers are not slow to adopt autonomy because they lack imagination. They are slow because they still carry the liability when the system is wrong.
 
-For product leaders, CPOs, and CEOs, our job is to map that journey. Based on my work in complex business automation, I’ve found it critical to use a maturity model to guide product strategy and customer adoption.
+For product builders, CPOs, and CEOs, our job is to map that journey and solve that systems problem. 
 
 Here is a 5-stage AI maturity model, framed through the lens of a common, complex AP workflow:
 
@@ -54,19 +54,23 @@ This is the "senior, trusted team member" you can hand a whole project to. This 
 
 ## Stage 4: The Intelligent Orchestrator
 
-Your trusted senior is now the "department manager." They are no longer just thinking about their own silo (AP) but are orchestrating entire cross-functional workflows. The AI understands the AP process *in context* of the wider business, connecting disparate systems to achieve a broader goal.
+Your trusted senior is now the "department manager." They are no longer just optimizing one task inside AP; they are coordinating across the messy reality of the business. The AI understands that an invoice is not just an invoice. It is connected to cash flow, vendor relationships, purchasing policies, approval chains, inventory, and timing.
 
-* **The Goal:** This is now an **API and platform play.** Your product must have clean, robust integrations. The product challenge is no longer just the in-app UX but the reliability of the system-to-system "conversations" your AI is managing. The product has officially moved from a cost-saving tool to a **decision-making engine** that generates direct, strategic financial value.
-* **AP Example:** The AI sees a large invoice come in. It checks the company's real-time cash flow, analyzes the vendor's payment terms, and then proactively suggests *when* to pay that bill to best optimize working capital—balancing early-pay discounts against cash-on-hand.
+This is the stage where the AI begins to manage **coordination under constraints.** It is not merely asking, "Can I process this invoice correctly?" It is asking, "Given everything else happening in the business, what should happen next?"
+
+* **The Goal:** This becomes an **integration, policy, and control problem.** Your product must have clean APIs, reliable system-to-system communication, and a clear model of business rules. Just as importantly, it must know when a local optimization creates a global problem. Paying a vendor early might capture a discount, but it may also strain cash. Delaying payment might help working capital, but damage a strategic supplier relationship. The product challenge is to make those tradeoffs visible and governable, not to hide them behind a magic button.
+* **AP Example:** A large invoice arrives from a critical vendor. The AI checks the purchase order, the vendor's payment terms, current cash position, approval thresholds, and upcoming payroll obligations. It recommends paying the invoice in twelve days: late enough to preserve cash this week, early enough to capture a partial discount, and safely within the vendor's preferred payment window.
 
 ---
 
 ## Stage 5: The Predictive Strategist
 
-This is your "strategic advisor" or "VP." They are no longer just reacting to *present* data; they are *predicting* the future and advising on high-level strategy. The AI has moved from "what is" to "what if" and "what's next."
+This is your "strategic advisor" or "VP." They are no longer just coordinating known workflows; they are helping the business reason about uncertainty. The AI has moved from "what should we do with this invoice?" to "what pattern is emerging, what risk is forming, and what decision should leadership consider before it becomes obvious?"
 
-* **The Goal:** The product challenge is **data storytelling and visualization.** How do you present a complex, predictive insight in a way that is simple, credible, and actionable for an executive? This is your competitive moat. Your product is no longer an automation tool; it is a strategic partner, providing foresight that your competitors cannot.
-* **AP Example:** The AI analyzes 24 months of spend data. It generates a report that says: "Warning: Your spend with 'Acme Inc.' has increased 40% quarter-over-quarter, and they are your single source for a critical component. This represents a significant supply chain risk. We recommend you begin qualifying a secondary vendor."
+This stage is not about pretending the AI has perfect foresight. It is about using accumulated operational data to surface weak signals early enough for humans to exercise judgment. The best products here will not make grand declarations. They will show their reasoning, expose confidence, and give leaders a small number of high-quality choices.
+
+* **The Goal:** The product challenge is **judgment, credibility, and narrative.** How do you turn thousands of small operational events into an insight an executive can trust? How do you separate signal from noise? How do you show the user what changed, why it matters, and what action is worth considering? The interface is no longer a queue or a dashboard. It is a decision brief.
+* **AP Example:** The AI analyzes 24 months of spend, payment timing, vendor concentration, contract terms, and category-level price changes. It flags that spend with Acme Inc. has increased 40% quarter-over-quarter, Acme is now the single source for a critical component, and similar vendors are showing longer fulfillment times. It recommends qualifying a secondary vendor this quarter, renegotiating volume terms before renewal, and reviewing whether the current dependency still fits the company's risk tolerance.
 
 ---
 
