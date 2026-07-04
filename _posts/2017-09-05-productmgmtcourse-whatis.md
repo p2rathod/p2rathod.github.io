@@ -3,6 +3,7 @@ title: What Is Product Management?
 layout: post
 category: product
 image: assets/images/posts/product/product_whatis.jpg
+topstory: false
 description: 3 themes, 4 responsibilities, and 5 pillars.
 ---
 

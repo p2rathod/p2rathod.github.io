@@ -4,6 +4,7 @@ title: Rafiki - A Lifestyle Concierge
 category: ai
 research: false
 image: assets/images/posts/rafiki/rafiki_logo.jpeg
+topstory: true
 featured: false
 travel_featured: false
 description: We built a lifestyle concierge to help manage planning, coordinating, and maximizing our time. It was called "Rafiki".

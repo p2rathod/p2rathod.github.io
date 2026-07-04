@@ -4,6 +4,7 @@ title: A Reflection On 10 Years At Polar
 category: build
 research: false
 image: assets/images/posts/polar-retrospective/firstparty.jpg
+topstory: true
 featured: true
 travel_featured: true
 description: A reflection on 10 years, helping start and grow a company called Polar.
