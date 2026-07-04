@@ -1,0 +1,21 @@
+{% assign card_variant = include.variant | default: "text" %}
+
+<article class="home-post home-post--{{ card_variant }}">
+  {% if card_variant == "thumb" and post.image %}
+  <a class="home-post__media" href="{{ post.url | relative_url }}" aria-label="{{ post.title }}">
+    <img src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}" />
+  </a>
+  {% endif %}
+  <div class="home-post__body">
+    <div class="home-post__eyebrow">
+      <a href="{{ site.baseurl }}/category/{{ post.category | slugify }}/">{{ post.category }}</a>
+      <span>{{ post.date | date_to_string }}</span>
+    </div>
+    <h3 class="home-post__title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h3>
+    <p class="home-post__excerpt">
+      {{ post.description | default: post.excerpt | strip_html | truncatewords: 24 }}
+    </p>
+  </div>
+</article>

@@ -46,9 +46,9 @@ title: Blog
       <span>Top Posts</span>
     </h2>
   </div>
-  <div class="masonrygrid row listrecent">
+  <div class="home-grid home-grid--text">
     {% for post in site.posts %} {% if post.topstory == true and post.url != hero_post.url %} {% include
-    postboximg.html %} {% endif %} {% endfor %}
+    homepost.html variant="text" %} {% endif %} {% endfor %}
   </div>
 </section>
 
@@ -61,9 +61,9 @@ title: Blog
       <span>Product</span>
     </h2>
   </div>
-  <div class="masonrygrid row listrecent">
+  <div class="home-grid home-grid--thumb">
     {% for post in site.posts %} {% if post.category == "product" %} {% include
-    postboximg.html %} {% endif %} {% endfor %}
+    homepost.html variant="thumb" %} {% endif %} {% endfor %}
   </div>
 </section>
 
@@ -76,9 +76,9 @@ title: Blog
       <span>Projects</span>
     </h2>
   </div>
-  <div class="masonrygrid row listrecent">
+  <div class="home-grid home-grid--thumb">
     {% for post in site.posts %} {% if post.category == "build" %} {% include
-    postboximg.html %} {% endif %} {% endfor %}
+    homepost.html variant="thumb" %} {% endif %} {% endfor %}
   </div>
 </section>
 
@@ -91,9 +91,9 @@ title: Blog
       <span>FAQs And Research</span>
     </h2>
   </div>
-  <div class="masonrygrid row listrecent">
+  <div class="home-grid home-grid--text">
     {% for post in site.posts %} {% if post.research == true %} {% include
-    postboximg.html %} {% endif %} {% endfor %}
+    homepost.html variant="text" %} {% endif %} {% endfor %}
   </div>
 </section>
 
@@ -106,9 +106,9 @@ title: Blog
       <span>All Stories</span>
     </h2>
   </div>
-  <div class="masonrygrid row listrecent">
+  <div class="home-list">
     {% for post in paginator.posts %} {% unless post.featured == true %} {%
-    include postbox.html %} {% endunless %} {% endfor %}
+    include homepost.html variant="archive" %} {% endunless %} {% endfor %}
   </div>
 </section>
 
